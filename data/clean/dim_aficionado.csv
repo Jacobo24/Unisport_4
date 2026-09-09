@@ -1,0 +1,1001 @@
+aficionado_id,segmento_real,tramo_edad,sexo,tipo_abono,antiguedad_anios,provincia
+AF-664C935608,Aficionado latente,25-34,Mujer,Abonado,10.0,Barcelona
+AF-051D3F8133,Hincha digital intensivo,25-34,Mujer,Socio digital,3.0,Barcelona
+AF-DD360253B0,Comprador de servicios,35-44,Mujer,Socio digital,10.0,A Coruña
+AF-098A269628,Comprador de servicios,35-44,Hombre,Abonado,2.0,A Coruña
+AF-0DA851833C,Aficionado latente,25-34,Hombre,Abonado,4.0,A Coruña
+AF-F9CFA62FD2,Aficionado latente,18-24,Hombre,Abonado,4.0,Madrid
+AF-06744EFE5F,Comprador de servicios,55+,Hombre,Abonado,2.0,Ourense
+AF-02A7FBB908,Consumidor de resultados,18-24,Hombre,Socio digital,5.0,Otras
+AF-AAC1AA1B94,Hincha digital intensivo,25-34,Hombre,Abonado,7.0,Pontevedra
+AF-A89D0CE8F0,Hincha digital intensivo,25-34,Hombre,Abonado,3.0,Asturias
+AF-7FACB7D105,Consumidor de resultados,25-34,Mujer,Abonado,19.0,A Coruña
+AF-B7DE50E70B,Comprador de servicios,45-54,Hombre,Socio digital,25.0,Pontevedra
+AF-B34405C874,Comprador de servicios,45-54,Mujer,Socio digital,31.0,A Coruña
+AF-EFCA65B407,Aficionado latente,35-44,Hombre,Socio digital,6.0,Barcelona
+AF-E8DC663CE9,Comprador de servicios,55+,Mujer,Abonado,5.0,A Coruña
+AF-015C0ED11F,Consumidor de resultados,25-34,Hombre,Socio digital,7.0,Pontevedra
+AF-57CD8166FE,Consumidor de resultados,55+,Hombre,Abonado,8.0,Otras
+AF-1B0CD3857E,Aficionado latente,35-44,Hombre,No socio,7.0,Lugo
+AF-0D781ADF95,Consumidor de resultados,35-44,Hombre,No socio,2.0,Otras
+AF-8BB1300615,Hincha digital intensivo,25-34,Mujer,No socio,5.0,A Coruña
+AF-D79AA1B6BC,Hincha digital intensivo,18-24,Hombre,No socio,14.0,A Coruña
+AF-6044142FC9,Consumidor de resultados,45-54,Hombre,Socio digital,3.0,Pontevedra
+AF-887AD8C467,Consumidor de resultados,35-44,Hombre,Socio digital,12.0,Lugo
+AF-9EA547B4B8,Comprador de servicios,45-54,Hombre,Socio digital,3.0,Barcelona
+AF-6A1E16C160,Aficionado latente,45-54,Hombre,No socio,8.0,Lugo
+AF-B2A08918A3,Comprador de servicios,18-24,Mujer,Socio digital,15.0,Ourense
+AF-6ABC201CF7,Comprador de servicios,45-54,Hombre,No socio,3.0,Madrid
+AF-D9326E0A8A,Hincha digital intensivo,25-34,Mujer,No socio,7.0,Pontevedra
+AF-F6C6A752B8,Consumidor de resultados,25-34,Hombre,Abonado,4.0,Pontevedra
+AF-BBCABD4F64,Aficionado latente,35-44,Hombre,Abonado,7.0,Madrid
+AF-7219BB587C,Comprador de servicios,35-44,Hombre,No socio,9.0,A Coruña
+AF-97CD301DFB,Consumidor de resultados,35-44,Mujer,Abonado,15.0,A Coruña
+AF-B77EF57FB9,Aficionado latente,55+,Hombre,No socio,8.0,A Coruña
+AF-9D53E81E23,Consumidor de resultados,45-54,Hombre,No socio,7.0,Lugo
+AF-8D4685AD67,Comprador de servicios,35-44,Mujer,No socio,7.0,Lugo
+AF-65EF21247A,Aficionado latente,45-54,Hombre,Socio digital,7.0,Pontevedra
+AF-2B3AB5061B,Aficionado latente,25-34,Mujer,No socio,1.0,Pontevedra
+AF-6F90121F11,Aficionado latente,25-34,Hombre,No socio,6.0,Madrid
+AF-C1D4C0AE84,Consumidor de resultados,45-54,Hombre,No socio,15.0,Asturias
+AF-763D1AE32E,Consumidor de resultados,45-54,Hombre,No socio,17.0,A Coruña
+AF-49C5626CAB,Consumidor de resultados,55+,Hombre,Socio digital,3.0,A Coruña
+AF-1474CF8C01,Aficionado latente,35-44,Hombre,No socio,5.0,A Coruña
+AF-3481B694D0,Consumidor de resultados,35-44,Mujer,No socio,7.0,A Coruña
+AF-9971FFA859,Hincha digital intensivo,45-54,Hombre,Abonado,0.0,Pontevedra
+AF-4C7273FFED,Aficionado latente,18-24,Hombre,Socio digital,4.0,Pontevedra
+AF-A5B3697FB4,Consumidor de resultados,55+,Hombre,Socio digital,5.0,Lugo
+AF-4FB9134E94,Hincha digital intensivo,18-24,Hombre,Abonado,18.0,Madrid
+AF-A815B06120,Hincha digital intensivo,18-24,Hombre,Abonado,9.0,A Coruña
+AF-C1A4896EF2,Hincha digital intensivo,45-54,Hombre,Abonado,6.0,A Coruña
+AF-603AD841D5,Consumidor de resultados,45-54,Hombre,Socio digital,12.0,Barcelona
+AF-0854353552,Hincha digital intensivo,25-34,Hombre,Abonado,7.0,A Coruña
+AF-4168AD29C5,Consumidor de resultados,25-34,Hombre,No socio,7.0,Otras
+AF-DD6658753A,Comprador de servicios,55+,Mujer,Socio digital,9.0,Lugo
+AF-03D31D32D1,Consumidor de resultados,55+,Hombre,No socio,2.0,Otras
+AF-3E2E4F6732,Comprador de servicios,25-34,Mujer,No socio,10.0,Madrid
+AF-FD7B174E7D,Comprador de servicios,45-54,Hombre,Abonado,8.0,Asturias
+AF-CB5C4B455C,Hincha digital intensivo,25-34,Hombre,Abonado,11.0,A Coruña
+AF-49783091D1,Aficionado latente,18-24,Hombre,No socio,5.0,Madrid
+AF-410E6E8E11,Consumidor de resultados,45-54,Mujer,Socio digital,2.0,Otras
+AF-19A52AA62C,Consumidor de resultados,18-24,Mujer,No socio,13.0,A Coruña
+AF-E252B9DEB0,Consumidor de resultados,35-44,Hombre,Abonado,12.0,Otras
+AF-B5451C7FBC,Comprador de servicios,45-54,Mujer,Abonado,9.0,A Coruña
+AF-456DBCBD82,Aficionado latente,45-54,Hombre,Abonado,2.0,A Coruña
+AF-394723D4CA,Comprador de servicios,35-44,Hombre,Abonado,6.0,A Coruña
+AF-1EBC6DF383,Hincha digital intensivo,45-54,Hombre,Socio digital,8.0,A Coruña
+AF-10CB24817B,Consumidor de resultados,45-54,Hombre,Abonado,1.0,Madrid
+AF-8CC0E4BAC9,Consumidor de resultados,45-54,Mujer,No socio,9.0,Pontevedra
+AF-652002CCB4,Aficionado latente,18-24,Hombre,No socio,13.0,Otras
+AF-3A22B90256,Aficionado latente,35-44,Hombre,No socio,13.0,Asturias
+AF-A7795441E2,Aficionado latente,25-34,Hombre,Abonado,4.0,Barcelona
+AF-411A35070F,Aficionado latente,25-34,Mujer,Abonado,2.0,Pontevedra
+AF-144466BB86,Aficionado latente,18-24,Hombre,Socio digital,3.0,Barcelona
+AF-909FBC00C1,Consumidor de resultados,25-34,Hombre,No socio,16.0,A Coruña
+AF-BC7AF3562A,Consumidor de resultados,55+,Mujer,Abonado,3.0,A Coruña
+AF-2773ADC12A,Comprador de servicios,45-54,Mujer,No socio,12.0,Otras
+AF-11372DB658,Aficionado latente,35-44,Hombre,No socio,7.0,A Coruña
+AF-E34428C513,Aficionado latente,25-34,Hombre,Socio digital,5.0,A Coruña
+AF-89936EF1BD,Hincha digital intensivo,25-34,Hombre,No socio,7.0,A Coruña
+AF-FF0A5628C3,Hincha digital intensivo,35-44,Hombre,Socio digital,8.0,Madrid
+AF-2DD887D95A,Comprador de servicios,25-34,Hombre,Abonado,25.0,Otras
+AF-CCC266A90D,Comprador de servicios,55+,Hombre,Abonado,14.0,A Coruña
+AF-45E34ED468,Comprador de servicios,45-54,Mujer,Abonado,4.0,Madrid
+AF-1638AB16C0,Aficionado latente,45-54,Mujer,No socio,6.0,Otras
+AF-EF380CD6EF,Aficionado latente,35-44,Mujer,No socio,7.0,A Coruña
+AF-7A61605A98,Comprador de servicios,55+,Hombre,Socio digital,5.0,A Coruña
+AF-3769394122,Consumidor de resultados,55+,Mujer,Socio digital,15.0,A Coruña
+AF-5042777831,Consumidor de resultados,55+,Hombre,No socio,15.0,A Coruña
+AF-EAB0CDA669,Consumidor de resultados,45-54,Mujer,No socio,21.0,Madrid
+AF-212B327B44,Aficionado latente,25-34,Hombre,No socio,12.0,Lugo
+AF-B42405808F,Consumidor de resultados,55+,Hombre,Socio digital,2.0,A Coruña
+AF-A07E59016D,Aficionado latente,35-44,Hombre,No socio,8.0,A Coruña
+AF-DB248B5054,Comprador de servicios,35-44,Hombre,No socio,14.0,A Coruña
+AF-57A3CA65E8,Aficionado latente,18-24,Hombre,Socio digital,4.0,A Coruña
+AF-54BEA61E2E,Aficionado latente,35-44,Mujer,Socio digital,8.0,Pontevedra
+AF-DC91E7DC07,Consumidor de resultados,35-44,Mujer,Socio digital,9.0,Pontevedra
+AF-EB0C8B61A0,Aficionado latente,55+,Hombre,Socio digital,11.0,Madrid
+AF-5CEC3B7B77,Consumidor de resultados,45-54,Mujer,Socio digital,6.0,Asturias
+AF-31D143245D,Comprador de servicios,35-44,Hombre,Abonado,11.0,A Coruña
+AF-1D477AE65D,Aficionado latente,45-54,Hombre,Socio digital,14.0,A Coruña
+AF-93907029AF,Comprador de servicios,55+,Hombre,Abonado,4.0,A Coruña
+AF-D65659ABAF,Aficionado latente,25-34,Hombre,Socio digital,10.0,A Coruña
+AF-CC61FCCE2F,Comprador de servicios,35-44,Hombre,Abonado,5.0,Lugo
+AF-1414D8F783,Hincha digital intensivo,18-24,Hombre,Socio digital,9.0,Madrid
+AF-D392C2E5DA,Hincha digital intensivo,25-34,Hombre,Abonado,8.0,A Coruña
+AF-26CA954AD3,Hincha digital intensivo,18-24,Mujer,No socio,15.0,Otras
+AF-D6DDD71315,Comprador de servicios,55+,Hombre,Abonado,7.0,Barcelona
+AF-FE827538B4,Aficionado latente,25-34,Hombre,Socio digital,9.0,Barcelona
+AF-D58924D2B0,Aficionado latente,45-54,Mujer,No socio,6.0,A Coruña
+AF-6C34A76A92,Aficionado latente,35-44,Hombre,Abonado,2.0,A Coruña
+AF-6E053AA9EF,Consumidor de resultados,55+,Hombre,No socio,0.0,A Coruña
+AF-EE99C4E2F9,Aficionado latente,25-34,Hombre,Socio digital,6.0,A Coruña
+AF-0EDCAE5ACC,Hincha digital intensivo,45-54,Hombre,Socio digital,1.0,Otras
+AF-F55FCC8A41,Hincha digital intensivo,18-24,Mujer,Abonado,9.0,Lugo
+AF-24C5F81B6B,Aficionado latente,55+,Mujer,No socio,6.0,A Coruña
+AF-175D5B9CC0,Aficionado latente,35-44,Hombre,Abonado,7.0,A Coruña
+AF-740FB848AA,Consumidor de resultados,35-44,Mujer,Socio digital,17.0,Otras
+AF-6F7B99F922,Consumidor de resultados,25-34,Hombre,Abonado,2.0,Pontevedra
+AF-999C79DAA3,Comprador de servicios,55+,Hombre,Abonado,4.0,Pontevedra
+AF-C40C492835,Consumidor de resultados,35-44,Hombre,Abonado,2.0,Madrid
+AF-B26803DFB9,Aficionado latente,35-44,Mujer,Socio digital,6.0,Pontevedra
+AF-12B11DAE37,Hincha digital intensivo,18-24,Mujer,Abonado,2.0,Asturias
+AF-1628E653BD,Hincha digital intensivo,25-34,Hombre,No socio,13.0,Otras
+AF-A333470BFF,Aficionado latente,55+,Hombre,Socio digital,6.0,A Coruña
+AF-17BAD2C4FA,Hincha digital intensivo,25-34,Hombre,No socio,7.0,Ourense
+AF-7DC4ABFDF1,Comprador de servicios,35-44,Mujer,Abonado,12.0,Otras
+AF-F3702708F3,Consumidor de resultados,18-24,Mujer,Socio digital,4.0,A Coruña
+AF-34F4154B2A,Comprador de servicios,45-54,Mujer,Abonado,14.0,Pontevedra
+AF-4A517DC606,Consumidor de resultados,35-44,Hombre,Socio digital,14.0,Pontevedra
+AF-2C5E0CD6CB,Comprador de servicios,25-34,Hombre,Socio digital,12.0,Pontevedra
+AF-32A91B7529,Consumidor de resultados,18-24,Hombre,No socio,9.0,Lugo
+AF-6208D16BFB,Aficionado latente,25-34,Hombre,Socio digital,13.0,Otras
+AF-6D7CB56261,Aficionado latente,35-44,Hombre,No socio,12.0,Otras
+AF-22BE0089F9,Hincha digital intensivo,18-24,Hombre,No socio,10.0,Ourense
+AF-600BB58746,Aficionado latente,25-34,Hombre,Socio digital,5.0,Madrid
+AF-4A556848A6,Consumidor de resultados,55+,Hombre,No socio,3.0,A Coruña
+AF-402AD584CD,Consumidor de resultados,35-44,Hombre,No socio,5.0,A Coruña
+AF-C96BAE872D,Aficionado latente,35-44,Hombre,No socio,4.0,Pontevedra
+AF-8A05485085,Aficionado latente,25-34,Hombre,No socio,14.0,A Coruña
+AF-DAFD40896B,Hincha digital intensivo,35-44,Hombre,Abonado,9.0,Lugo
+AF-143CB2A0E2,Comprador de servicios,55+,Hombre,Abonado,5.0,Pontevedra
+AF-F460442BFB,Consumidor de resultados,25-34,Hombre,No socio,8.0,Pontevedra
+AF-06953068FD,Hincha digital intensivo,45-54,Hombre,Socio digital,5.0,A Coruña
+AF-98C34A97B2,Comprador de servicios,45-54,Hombre,Abonado,3.0,A Coruña
+AF-896C5F3793,Comprador de servicios,55+,Mujer,Abonado,7.0,A Coruña
+AF-DA94774B70,Comprador de servicios,35-44,Mujer,Abonado,9.0,A Coruña
+AF-F400E58470,Consumidor de resultados,55+,Hombre,Socio digital,22.0,A Coruña
+AF-30342EA8A4,Aficionado latente,25-34,Hombre,Abonado,9.0,A Coruña
+AF-1CB7246457,Consumidor de resultados,55+,Mujer,No socio,8.0,Asturias
+AF-6BA793D80F,Comprador de servicios,35-44,Mujer,Abonado,4.0,A Coruña
+AF-BBD69AADDF,Hincha digital intensivo,18-24,Hombre,Socio digital,4.0,A Coruña
+AF-6CD26D3F1C,Consumidor de resultados,25-34,Hombre,Abonado,12.0,A Coruña
+AF-A50691A828,Consumidor de resultados,25-34,Mujer,No socio,8.0,A Coruña
+AF-D17BE07C0D,Hincha digital intensivo,35-44,Mujer,No socio,21.0,Pontevedra
+AF-CFCA38D54A,Aficionado latente,25-34,Mujer,No socio,8.0,Ourense
+AF-AA67DE87B4,Consumidor de resultados,35-44,Hombre,Abonado,4.0,Otras
+AF-D0668D260E,Consumidor de resultados,35-44,Hombre,Abonado,2.0,A Coruña
+AF-6B5DFF30F4,Aficionado latente,55+,Hombre,No socio,5.0,Ourense
+AF-04F75F1049,Consumidor de resultados,35-44,Hombre,Abonado,4.0,Asturias
+AF-05B986C441,Comprador de servicios,45-54,Mujer,Abonado,13.0,Madrid
+AF-8B077178D3,Consumidor de resultados,25-34,Hombre,No socio,7.0,Lugo
+AF-30873AE9E8,Hincha digital intensivo,25-34,Hombre,Socio digital,13.0,Lugo
+AF-0ED9E9E99B,Aficionado latente,45-54,Hombre,No socio,11.0,A Coruña
+AF-BC3CC8F485,Aficionado latente,45-54,Hombre,Socio digital,2.0,A Coruña
+AF-7213AE94AB,Consumidor de resultados,25-34,Hombre,No socio,10.0,Ourense
+AF-67297445DE,Consumidor de resultados,35-44,Hombre,No socio,23.0,Lugo
+AF-43BA9BE1C9,Comprador de servicios,25-34,Hombre,No socio,18.0,Lugo
+AF-590175AA46,Consumidor de resultados,18-24,Hombre,Abonado,11.0,A Coruña
+AF-109665EFBB,Comprador de servicios,55+,Hombre,Abonado,7.0,Pontevedra
+AF-0310578487,Aficionado latente,35-44,Mujer,Abonado,2.0,A Coruña
+AF-A5E26504A3,Aficionado latente,45-54,Hombre,No socio,9.0,A Coruña
+AF-8D91D0AC31,Comprador de servicios,45-54,Hombre,Abonado,3.0,Pontevedra
+AF-5E49F400D5,Comprador de servicios,35-44,Mujer,Abonado,11.0,Lugo
+AF-851DB5B373,Consumidor de resultados,55+,Hombre,Socio digital,5.0,A Coruña
+AF-4B05943E7E,Aficionado latente,25-34,Hombre,Socio digital,7.0,Asturias
+AF-EFCDCAADF4,Comprador de servicios,45-54,Hombre,Abonado,6.0,Lugo
+AF-0CA96F5218,Comprador de servicios,55+,Hombre,Abonado,6.0,A Coruña
+AF-627DE66A57,Aficionado latente,45-54,Hombre,Abonado,8.0,Barcelona
+AF-ED0F0DFAB5,Consumidor de resultados,18-24,Hombre,Abonado,15.0,A Coruña
+AF-AA97544E0C,Comprador de servicios,55+,Hombre,Abonado,3.0,Barcelona
+AF-FD64D12480,Aficionado latente,35-44,Mujer,No socio,2.0,Pontevedra
+AF-2A695FC7CF,Aficionado latente,55+,Mujer,No socio,21.0,Lugo
+AF-5A30EADD73,Comprador de servicios,55+,Hombre,Abonado,11.0,A Coruña
+AF-79AF3DC633,Aficionado latente,45-54,Hombre,No socio,2.0,A Coruña
+AF-FB007511E8,Aficionado latente,35-44,Hombre,Abonado,6.0,Madrid
+AF-7B435C933B,Comprador de servicios,25-34,Hombre,Abonado,14.0,A Coruña
+AF-BE3747E8CE,Aficionado latente,25-34,Mujer,Abonado,5.0,Madrid
+AF-DF9D95D570,Consumidor de resultados,35-44,Hombre,Socio digital,7.0,A Coruña
+AF-6CB5A19644,Consumidor de resultados,35-44,Hombre,No socio,5.0,A Coruña
+AF-1B195FCA16,Hincha digital intensivo,45-54,Mujer,Socio digital,5.0,Asturias
+AF-A40362A298,Aficionado latente,25-34,Mujer,No socio,3.0,A Coruña
+AF-2373DEFEFF,Comprador de servicios,35-44,Hombre,Socio digital,2.0,A Coruña
+AF-7CFAAD0E4F,Comprador de servicios,45-54,Hombre,Socio digital,1.0,Barcelona
+AF-96B11E01C7,Aficionado latente,55+,Hombre,No socio,7.0,A Coruña
+AF-999742BD15,Aficionado latente,55+,Hombre,Socio digital,6.0,A Coruña
+AF-643D81931C,Consumidor de resultados,55+,Hombre,Abonado,6.0,Pontevedra
+AF-1CFB2E5001,Consumidor de resultados,18-24,Mujer,Socio digital,11.0,A Coruña
+AF-CA75C1A6E9,Hincha digital intensivo,18-24,Mujer,Socio digital,9.0,A Coruña
+AF-8BA1F283B6,Comprador de servicios,35-44,Hombre,Abonado,5.0,Pontevedra
+AF-600104F386,Consumidor de resultados,45-54,Mujer,No socio,10.0,Otras
+AF-FD358DC954,Comprador de servicios,25-34,Hombre,Abonado,10.0,Pontevedra
+AF-22A56BDD5F,Hincha digital intensivo,55+,Hombre,Abonado,6.0,A Coruña
+AF-654CEF3F7E,Hincha digital intensivo,55+,Hombre,No socio,1.0,Lugo
+AF-1E52CA2E4F,Aficionado latente,45-54,Mujer,No socio,9.0,Asturias
+AF-EA6C039823,Consumidor de resultados,55+,Mujer,No socio,12.0,A Coruña
+AF-6BD9730D51,Consumidor de resultados,35-44,Mujer,Socio digital,2.0,A Coruña
+AF-AE5402B762,Consumidor de resultados,35-44,Hombre,No socio,19.0,A Coruña
+AF-EBD5DE8DBC,Consumidor de resultados,55+,Hombre,No socio,13.0,A Coruña
+AF-57CBA26542,Aficionado latente,55+,Hombre,Abonado,12.0,Otras
+AF-15E29CC1AE,Comprador de servicios,25-34,Mujer,Abonado,7.0,Madrid
+AF-82598CD404,Consumidor de resultados,35-44,Hombre,Abonado,16.0,Asturias
+AF-41551BABE4,Hincha digital intensivo,18-24,Hombre,Abonado,12.0,A Coruña
+AF-1E2E07EE37,Aficionado latente,35-44,Hombre,No socio,12.0,Otras
+AF-726A3BD3D6,Comprador de servicios,55+,Mujer,Socio digital,4.0,A Coruña
+AF-0CB4F643E4,Consumidor de resultados,35-44,Mujer,Abonado,19.0,A Coruña
+AF-84FFD8A2B7,Comprador de servicios,45-54,Hombre,Abonado,4.0,A Coruña
+AF-5D576E670F,Aficionado latente,45-54,Hombre,No socio,19.0,Pontevedra
+AF-084100F6BA,Consumidor de resultados,25-34,Hombre,Abonado,3.0,A Coruña
+AF-669495C696,Consumidor de resultados,35-44,Mujer,No socio,8.0,Pontevedra
+AF-BE4F399505,Comprador de servicios,25-34,Mujer,Abonado,12.0,Pontevedra
+AF-50835C43DB,Consumidor de resultados,45-54,Mujer,Socio digital,13.0,Madrid
+AF-E4411B9DA3,Consumidor de resultados,55+,Hombre,No socio,3.0,A Coruña
+AF-EA85019ABD,Aficionado latente,25-34,Hombre,Socio digital,20.0,Pontevedra
+AF-A80934298E,Consumidor de resultados,35-44,Mujer,No socio,6.0,Madrid
+AF-9A273826EF,Aficionado latente,55+,Hombre,Socio digital,4.0,A Coruña
+AF-B5DF7AE365,Consumidor de resultados,55+,Hombre,No socio,2.0,Pontevedra
+AF-BDDBD950A0,Comprador de servicios,18-24,Mujer,Abonado,10.0,Lugo
+AF-AB31BCBB77,Comprador de servicios,25-34,Hombre,Abonado,25.0,Barcelona
+AF-63E9337F52,Aficionado latente,45-54,Mujer,No socio,11.0,Lugo
+AF-3657255DA5,Comprador de servicios,45-54,Hombre,Socio digital,7.0,A Coruña
+AF-F651274BD0,Comprador de servicios,35-44,Hombre,No socio,1.0,A Coruña
+AF-27800CCF31,Aficionado latente,45-54,Hombre,No socio,10.0,A Coruña
+AF-CF6CE97B3D,Hincha digital intensivo,35-44,Mujer,Socio digital,5.0,A Coruña
+AF-3D8B6C1E09,Hincha digital intensivo,25-34,Hombre,Socio digital,12.0,A Coruña
+AF-CFFC781C73,Comprador de servicios,35-44,Mujer,Abonado,2.0,A Coruña
+AF-7433C9438C,Hincha digital intensivo,25-34,Hombre,Abonado,0.0,Otras
+AF-5DA1ADF1E9,Aficionado latente,25-34,Hombre,Abonado,4.0,A Coruña
+AF-598AB2DA8A,Aficionado latente,45-54,Mujer,Abonado,8.0,Pontevedra
+AF-761658F2BD,Comprador de servicios,25-34,Mujer,Abonado,3.0,Otras
+AF-3F7F9DC5F1,Aficionado latente,45-54,Hombre,Abonado,4.0,A Coruña
+AF-499A26AB8C,Consumidor de resultados,25-34,Hombre,No socio,2.0,Ourense
+AF-6A0BDB3C30,Consumidor de resultados,55+,Mujer,Abonado,2.0,Ourense
+AF-F3E564F927,Aficionado latente,35-44,Hombre,Socio digital,1.0,Madrid
+AF-76CEA2C66A,Comprador de servicios,55+,Hombre,Socio digital,14.0,A Coruña
+AF-863C2B41ED,Aficionado latente,35-44,Hombre,No socio,4.0,A Coruña
+AF-14C1F00E40,Comprador de servicios,25-34,Hombre,Socio digital,5.0,Pontevedra
+AF-3E6A03AEB3,Consumidor de resultados,45-54,Mujer,No socio,7.0,Otras
+AF-64F4858FEE,Consumidor de resultados,18-24,Mujer,No socio,26.0,Pontevedra
+AF-675978FEF2,Comprador de servicios,25-34,Hombre,Socio digital,3.0,A Coruña
+AF-25C1C84C96,Comprador de servicios,35-44,Hombre,Socio digital,7.0,Pontevedra
+AF-ADA410271E,Aficionado latente,18-24,Mujer,No socio,3.0,Otras
+AF-4EAC975B19,Consumidor de resultados,45-54,Hombre,Abonado,2.0,Ourense
+AF-7FF96A0E40,Consumidor de resultados,35-44,Mujer,Socio digital,3.0,Barcelona
+AF-AC0CFF5D63,Comprador de servicios,35-44,Mujer,Socio digital,4.0,Pontevedra
+AF-E54BDDDC16,Consumidor de resultados,35-44,Hombre,Abonado,10.0,A Coruña
+AF-38C2B6EB67,Hincha digital intensivo,18-24,Hombre,Socio digital,4.0,Madrid
+AF-C3589AFEC7,Aficionado latente,45-54,Hombre,Abonado,6.0,A Coruña
+AF-314C770EEA,Consumidor de resultados,35-44,Hombre,No socio,17.0,A Coruña
+AF-A1671A4891,Consumidor de resultados,45-54,Hombre,No socio,12.0,A Coruña
+AF-AD04FBE72A,Consumidor de resultados,45-54,Hombre,Abonado,12.0,Ourense
+AF-6EEC8A1495,Comprador de servicios,55+,Hombre,Abonado,10.0,A Coruña
+AF-9F4D3130C3,Consumidor de resultados,55+,Mujer,Abonado,2.0,Madrid
+AF-D8F72C4218,Consumidor de resultados,18-24,Hombre,Socio digital,8.0,A Coruña
+AF-158AEACECF,Consumidor de resultados,18-24,Mujer,Abonado,7.0,A Coruña
+AF-975B6BDE94,Comprador de servicios,35-44,Hombre,Socio digital,13.0,A Coruña
+AF-6778112FE1,Aficionado latente,45-54,Hombre,No socio,9.0,A Coruña
+AF-D63E2893EC,Comprador de servicios,55+,Hombre,Abonado,9.0,A Coruña
+AF-3E62E6665C,Consumidor de resultados,55+,Mujer,No socio,6.0,A Coruña
+AF-D01CA12D7A,Comprador de servicios,45-54,Hombre,Abonado,1.0,Asturias
+AF-28F2950862,Aficionado latente,45-54,Mujer,No socio,6.0,A Coruña
+AF-00AF58751E,Consumidor de resultados,35-44,Hombre,No socio,5.0,A Coruña
+AF-2628BC21AE,Consumidor de resultados,45-54,Hombre,Socio digital,6.0,A Coruña
+AF-F98BFAF0F4,Aficionado latente,35-44,Hombre,Socio digital,4.0,Pontevedra
+AF-C80C626CD6,Hincha digital intensivo,35-44,Mujer,Socio digital,7.0,A Coruña
+AF-827EBC2AC6,Consumidor de resultados,55+,Hombre,No socio,12.0,Lugo
+AF-24B8528E33,Consumidor de resultados,35-44,Mujer,No socio,8.0,A Coruña
+AF-B8336155FF,Hincha digital intensivo,18-24,Hombre,No socio,4.0,A Coruña
+AF-4F2DE3F242,Aficionado latente,25-34,Mujer,No socio,5.0,A Coruña
+AF-C714133C8D,Consumidor de resultados,45-54,Hombre,No socio,2.0,A Coruña
+AF-9B97A27F79,Consumidor de resultados,25-34,Hombre,Socio digital,4.0,A Coruña
+AF-7B47FAD197,Aficionado latente,18-24,Hombre,No socio,5.0,Lugo
+AF-C47B01CF84,Hincha digital intensivo,25-34,Mujer,Socio digital,5.0,Lugo
+AF-0C9CC4E4EE,Hincha digital intensivo,25-34,Mujer,Abonado,2.0,Asturias
+AF-971986CA93,Hincha digital intensivo,18-24,Hombre,Abonado,9.0,A Coruña
+AF-DA1D163EF6,Hincha digital intensivo,18-24,Hombre,Socio digital,1.0,Lugo
+AF-20E590D37E,Consumidor de resultados,45-54,Mujer,No socio,5.0,Asturias
+AF-2942AC1745,Comprador de servicios,35-44,Mujer,Socio digital,15.0,Pontevedra
+AF-6EAC1C4E52,Hincha digital intensivo,45-54,Mujer,Abonado,18.0,Madrid
+AF-B7AB9D06AE,Aficionado latente,55+,Hombre,No socio,6.0,Lugo
+AF-8B0B040615,Consumidor de resultados,25-34,Hombre,No socio,11.0,A Coruña
+AF-DA1E27813C,Hincha digital intensivo,25-34,Mujer,Socio digital,4.0,Ourense
+AF-4AFBC4265B,Consumidor de resultados,35-44,Hombre,Socio digital,20.0,Otras
+AF-71F0689277,Aficionado latente,55+,Hombre,Socio digital,3.0,A Coruña
+AF-4ECA50849E,Hincha digital intensivo,35-44,Mujer,No socio,13.0,Pontevedra
+AF-58273DDA6C,Hincha digital intensivo,18-24,Hombre,Socio digital,14.0,Pontevedra
+AF-85E44E732B,Consumidor de resultados,25-34,Mujer,Abonado,2.0,Otras
+AF-646E8D15A2,Comprador de servicios,35-44,Hombre,Abonado,14.0,A Coruña
+AF-0CB99E2C3D,Consumidor de resultados,25-34,Mujer,No socio,7.0,Asturias
+AF-7826A82F9C,Consumidor de resultados,18-24,Mujer,No socio,4.0,Barcelona
+AF-29C3EECA07,Comprador de servicios,45-54,Mujer,Abonado,3.0,Pontevedra
+AF-03D405D2E1,Comprador de servicios,35-44,Hombre,Abonado,10.0,Otras
+AF-2CFBB16FDC,Hincha digital intensivo,25-34,Hombre,No socio,11.0,Lugo
+AF-9E1E2EACC0,Aficionado latente,18-24,Hombre,Socio digital,10.0,A Coruña
+AF-450CD59F6A,Consumidor de resultados,25-34,Hombre,No socio,9.0,A Coruña
+AF-D4860A84B1,Comprador de servicios,25-34,Mujer,Abonado,5.0,Otras
+AF-C2D0DB0134,Hincha digital intensivo,45-54,Hombre,No socio,6.0,Pontevedra
+AF-5A1ABBCCE9,Consumidor de resultados,45-54,Hombre,Socio digital,3.0,A Coruña
+AF-59542D6595,Comprador de servicios,18-24,Hombre,Socio digital,1.0,Barcelona
+AF-E253835673,Aficionado latente,35-44,Mujer,Abonado,18.0,Pontevedra
+AF-1FE768FF76,Aficionado latente,25-34,Mujer,Socio digital,10.0,A Coruña
+AF-1D6745E098,Aficionado latente,18-24,Mujer,Abonado,3.0,Lugo
+AF-30BA329EAB,Aficionado latente,35-44,Hombre,Abonado,2.0,Lugo
+AF-5FF2B1CCD0,Hincha digital intensivo,25-34,Hombre,Socio digital,6.0,Madrid
+AF-F82DFE8137,Aficionado latente,45-54,Hombre,No socio,2.0,A Coruña
+AF-9EB62F3FDE,Comprador de servicios,45-54,Hombre,Abonado,15.0,A Coruña
+AF-BABA8E59D9,Aficionado latente,35-44,Mujer,No socio,3.0,A Coruña
+AF-8F1186AA9D,Comprador de servicios,35-44,Hombre,No socio,9.0,A Coruña
+AF-DDF84C537F,Aficionado latente,55+,Hombre,Abonado,14.0,A Coruña
+AF-18E12F0877,Aficionado latente,25-34,Mujer,No socio,6.0,A Coruña
+AF-7E9BA07756,Consumidor de resultados,25-34,Hombre,No socio,3.0,Asturias
+AF-8E61A08FF2,Hincha digital intensivo,18-24,Mujer,Abonado,4.0,A Coruña
+AF-3E86F37048,Consumidor de resultados,18-24,Mujer,Socio digital,11.0,Madrid
+AF-C2C72E4F69,Consumidor de resultados,18-24,Mujer,No socio,4.0,A Coruña
+AF-5F0A0060C9,Consumidor de resultados,45-54,Mujer,Abonado,18.0,A Coruña
+AF-55F2EBDC8C,Aficionado latente,25-34,Mujer,Abonado,6.0,A Coruña
+AF-ECFDDC9758,Comprador de servicios,25-34,Mujer,Socio digital,2.0,Ourense
+AF-67613077CA,Hincha digital intensivo,35-44,Hombre,Abonado,19.0,Pontevedra
+AF-D2552496E5,Comprador de servicios,55+,Hombre,Socio digital,8.0,A Coruña
+AF-59B8D10F7D,Consumidor de resultados,35-44,Hombre,Socio digital,2.0,Pontevedra
+AF-D8F0A475CF,Comprador de servicios,35-44,Mujer,Abonado,10.0,A Coruña
+AF-6CD8CF4A21,Consumidor de resultados,35-44,Hombre,No socio,16.0,A Coruña
+AF-C9F39C1ED2,Consumidor de resultados,25-34,Mujer,No socio,14.0,A Coruña
+AF-7DDE00B981,Hincha digital intensivo,25-34,Hombre,No socio,3.0,A Coruña
+AF-5D7E6788EA,Aficionado latente,25-34,Mujer,No socio,2.0,A Coruña
+AF-29C3C53493,Aficionado latente,25-34,Hombre,Socio digital,5.0,A Coruña
+AF-AB085FFE9D,Hincha digital intensivo,25-34,Hombre,Socio digital,3.0,Pontevedra
+AF-CED4C7BE18,Hincha digital intensivo,25-34,Hombre,No socio,5.0,A Coruña
+AF-720D45D3AD,Comprador de servicios,25-34,Hombre,Abonado,11.0,A Coruña
+AF-9796D898E8,Consumidor de resultados,55+,Hombre,Socio digital,10.0,Barcelona
+AF-8462CBCD11,Consumidor de resultados,35-44,Hombre,Socio digital,6.0,A Coruña
+AF-7BDAD8F932,Consumidor de resultados,25-34,Hombre,Socio digital,5.0,Madrid
+AF-03762F3BB4,Aficionado latente,35-44,Hombre,No socio,5.0,A Coruña
+AF-20A9CA7871,Aficionado latente,25-34,Mujer,No socio,10.0,Ourense
+AF-8E88BA8A16,Comprador de servicios,25-34,Hombre,Abonado,8.0,Asturias
+AF-EECCE260D9,Hincha digital intensivo,35-44,Hombre,No socio,3.0,A Coruña
+AF-FCAD3EDDDB,Comprador de servicios,35-44,Hombre,Abonado,4.0,Ourense
+AF-0111738FFA,Aficionado latente,35-44,Hombre,Abonado,6.0,Madrid
+AF-84A6606C05,Hincha digital intensivo,25-34,Hombre,No socio,9.0,A Coruña
+AF-726BAB374E,Aficionado latente,25-34,Hombre,Abonado,6.0,Pontevedra
+AF-D41FD58C26,Consumidor de resultados,55+,Mujer,No socio,2.0,A Coruña
+AF-458AB9E5A2,Consumidor de resultados,18-24,Mujer,Socio digital,7.0,A Coruña
+AF-904A34E3A4,Comprador de servicios,45-54,Hombre,Abonado,5.0,Pontevedra
+AF-00BC714C5D,Comprador de servicios,25-34,Hombre,Abonado,11.0,Ourense
+AF-D9DDFDB5D5,Comprador de servicios,35-44,Hombre,No socio,3.0,A Coruña
+AF-0B4AC5DB6A,Aficionado latente,45-54,Hombre,Socio digital,21.0,Pontevedra
+AF-7ED928D619,Consumidor de resultados,25-34,Hombre,Abonado,2.0,A Coruña
+AF-DD0CD0D166,Aficionado latente,35-44,Mujer,No socio,3.0,Madrid
+AF-73B3943BA2,Hincha digital intensivo,18-24,Hombre,Abonado,3.0,Lugo
+AF-BA66C3835B,Comprador de servicios,35-44,Mujer,Abonado,4.0,A Coruña
+AF-2815D39260,Comprador de servicios,45-54,Hombre,Abonado,8.0,Madrid
+AF-60831D4818,Consumidor de resultados,45-54,Hombre,No socio,6.0,Pontevedra
+AF-C9CBEEA8D8,Comprador de servicios,35-44,Mujer,Abonado,6.0,Otras
+AF-B4C295C57A,Comprador de servicios,35-44,Mujer,Abonado,10.0,A Coruña
+AF-7B0CB7D7CC,Aficionado latente,18-24,Hombre,No socio,6.0,Otras
+AF-D526264E23,Aficionado latente,55+,Mujer,Abonado,4.0,Otras
+AF-EB8E9EE952,Aficionado latente,18-24,Mujer,Abonado,6.0,A Coruña
+AF-888DAD15D5,Comprador de servicios,35-44,Hombre,Abonado,16.0,Asturias
+AF-B65CAD3B6D,Consumidor de resultados,25-34,Hombre,No socio,7.0,Pontevedra
+AF-2943D09E9B,Hincha digital intensivo,25-34,Mujer,Abonado,2.0,Asturias
+AF-4751412723,Hincha digital intensivo,25-34,Hombre,Socio digital,8.0,A Coruña
+AF-059CA66583,Consumidor de resultados,55+,Mujer,No socio,2.0,A Coruña
+AF-27EBA3089B,Aficionado latente,25-34,Mujer,No socio,10.0,A Coruña
+AF-2628656763,Consumidor de resultados,45-54,Hombre,Socio digital,12.0,A Coruña
+AF-D39637D5B4,Hincha digital intensivo,18-24,Mujer,Socio digital,6.0,A Coruña
+AF-4102267151,Comprador de servicios,35-44,Hombre,Abonado,11.0,Lugo
+AF-7E033842E2,Comprador de servicios,35-44,Mujer,Abonado,2.0,Pontevedra
+AF-9C32E89097,Hincha digital intensivo,18-24,Mujer,No socio,4.0,Lugo
+AF-A963AD08D2,Consumidor de resultados,25-34,Mujer,Socio digital,12.0,A Coruña
+AF-E8A89D0519,Hincha digital intensivo,18-24,Mujer,Abonado,9.0,Barcelona
+AF-D4A8A1E4BD,Comprador de servicios,35-44,Hombre,Socio digital,6.0,A Coruña
+AF-9E7489D6B8,Consumidor de resultados,35-44,Hombre,No socio,1.0,A Coruña
+AF-4FB4571648,Consumidor de resultados,35-44,Mujer,No socio,9.0,A Coruña
+AF-553ACB8B1B,Consumidor de resultados,45-54,Mujer,No socio,4.0,Lugo
+AF-5987FC9E2D,Aficionado latente,35-44,Mujer,No socio,4.0,Otras
+AF-DB0819D155,Hincha digital intensivo,18-24,Mujer,No socio,4.0,A Coruña
+AF-B09FB446E3,Hincha digital intensivo,45-54,Hombre,Abonado,1.0,Ourense
+AF-F205E2718D,Consumidor de resultados,55+,Mujer,Socio digital,5.0,Lugo
+AF-BAE512B0EB,Aficionado latente,35-44,Mujer,No socio,12.0,A Coruña
+AF-F2C8071FFD,Hincha digital intensivo,35-44,Hombre,Abonado,6.0,A Coruña
+AF-78B842C605,Consumidor de resultados,45-54,Hombre,Abonado,0.0,A Coruña
+AF-5F45F8E1B7,Aficionado latente,18-24,Hombre,No socio,14.0,Pontevedra
+AF-BED79B928A,Aficionado latente,25-34,Hombre,Socio digital,16.0,Otras
+AF-7BDE69CEED,Consumidor de resultados,35-44,Hombre,Socio digital,11.0,Pontevedra
+AF-1E19BCA10C,Hincha digital intensivo,55+,Mujer,Abonado,10.0,Ourense
+AF-1026E625A3,Comprador de servicios,25-34,Hombre,Abonado,21.0,A Coruña
+AF-C2E44A7EF9,Comprador de servicios,35-44,Hombre,Abonado,12.0,A Coruña
+AF-793B7228F8,Comprador de servicios,55+,Mujer,Socio digital,4.0,Pontevedra
+AF-D30DFE1CA4,Aficionado latente,18-24,Hombre,No socio,5.0,Ourense
+AF-C6A3BFEBC0,Comprador de servicios,35-44,Hombre,Abonado,7.0,Pontevedra
+AF-992EB0EF4C,Consumidor de resultados,25-34,Hombre,Abonado,2.0,A Coruña
+AF-E233B7A0A7,Hincha digital intensivo,25-34,Mujer,Abonado,7.0,Asturias
+AF-D2CFE82CF0,Hincha digital intensivo,18-24,Hombre,Abonado,13.0,Lugo
+AF-2A8FDD834A,Hincha digital intensivo,25-34,Hombre,Socio digital,7.0,Pontevedra
+AF-38D0EEF4F8,Comprador de servicios,45-54,Mujer,Abonado,2.0,Madrid
+AF-4E9B4E9B17,Consumidor de resultados,55+,Hombre,No socio,3.0,A Coruña
+AF-B5B9EBE6AB,Aficionado latente,55+,Hombre,No socio,8.0,A Coruña
+AF-A9D038F2CA,Comprador de servicios,45-54,Mujer,Abonado,1.0,Otras
+AF-701BFB20FC,Consumidor de resultados,25-34,Hombre,No socio,7.0,Otras
+AF-19E26A1D9B,Hincha digital intensivo,55+,Hombre,No socio,24.0,A Coruña
+AF-34A6D1DFE1,Comprador de servicios,35-44,Hombre,Abonado,7.0,A Coruña
+AF-6CF7ED4E31,Aficionado latente,45-54,Hombre,Abonado,9.0,Pontevedra
+AF-D4812056DA,Consumidor de resultados,25-34,Hombre,No socio,2.0,A Coruña
+AF-1B37904844,Consumidor de resultados,45-54,Hombre,No socio,7.0,A Coruña
+AF-1861F92B84,Aficionado latente,25-34,Hombre,Socio digital,7.0,Madrid
+AF-2766DA3912,Aficionado latente,25-34,Hombre,No socio,2.0,Lugo
+AF-BBA4AD9A29,Aficionado latente,25-34,Hombre,No socio,4.0,A Coruña
+AF-CB502B2653,Hincha digital intensivo,25-34,Mujer,No socio,4.0,Otras
+AF-615A26D23B,Aficionado latente,18-24,Mujer,Abonado,7.0,A Coruña
+AF-508301F7A4,Consumidor de resultados,45-54,Mujer,Socio digital,7.0,A Coruña
+AF-E506FB0B5B,Consumidor de resultados,45-54,Hombre,No socio,12.0,Ourense
+AF-873F9F3CFE,Consumidor de resultados,25-34,Hombre,No socio,9.0,A Coruña
+AF-12FA143294,Hincha digital intensivo,45-54,Hombre,No socio,7.0,A Coruña
+AF-B8AE9590A6,Comprador de servicios,35-44,Hombre,Abonado,22.0,Lugo
+AF-AE86BFAAA9,Comprador de servicios,35-44,Hombre,No socio,11.0,A Coruña
+AF-FEB5BD5D9D,Aficionado latente,55+,Mujer,No socio,17.0,A Coruña
+AF-84C284C488,Consumidor de resultados,55+,Mujer,No socio,8.0,A Coruña
+AF-B5037B172D,Hincha digital intensivo,25-34,Hombre,No socio,1.0,A Coruña
+AF-C93EC18D53,Comprador de servicios,25-34,Hombre,Abonado,4.0,Asturias
+AF-0EF78F399C,Aficionado latente,18-24,Mujer,No socio,4.0,Madrid
+AF-EC06C49A1E,Consumidor de resultados,55+,Mujer,Abonado,5.0,A Coruña
+AF-37BE65B678,Aficionado latente,25-34,Hombre,No socio,10.0,A Coruña
+AF-41088CF5D8,Comprador de servicios,45-54,Mujer,Abonado,5.0,A Coruña
+AF-4FA4691EDF,Consumidor de resultados,18-24,Mujer,Abonado,6.0,Otras
+AF-6461685C3C,Aficionado latente,25-34,Hombre,No socio,15.0,Madrid
+AF-EEC77204DC,Consumidor de resultados,55+,Hombre,Abonado,12.0,Pontevedra
+AF-99901FA73C,Aficionado latente,25-34,Mujer,No socio,7.0,Lugo
+AF-C9372170CB,Consumidor de resultados,25-34,Hombre,Socio digital,10.0,Ourense
+AF-C4F0A7B022,Comprador de servicios,35-44,Hombre,Abonado,7.0,A Coruña
+AF-89CA51108A,Comprador de servicios,35-44,Hombre,Abonado,12.0,Otras
+AF-70D7A6AB31,Consumidor de resultados,25-34,Hombre,No socio,5.0,Madrid
+AF-B80470AFFF,Hincha digital intensivo,35-44,Mujer,Socio digital,6.0,Ourense
+AF-A163928B6B,Consumidor de resultados,35-44,Hombre,Abonado,8.0,Barcelona
+AF-D98676D7FD,Aficionado latente,45-54,Hombre,No socio,13.0,Otras
+AF-60DBB8ECB0,Hincha digital intensivo,18-24,Hombre,Socio digital,5.0,A Coruña
+AF-8A34A140DF,Consumidor de resultados,25-34,Hombre,No socio,12.0,A Coruña
+AF-07F9EEAB2B,Hincha digital intensivo,25-34,Hombre,No socio,2.0,Pontevedra
+AF-DB9356FFA0,Consumidor de resultados,55+,Hombre,Abonado,6.0,Otras
+AF-0BE48FF27F,Hincha digital intensivo,35-44,Mujer,Abonado,4.0,Otras
+AF-19D6808718,Consumidor de resultados,45-54,Mujer,No socio,17.0,A Coruña
+AF-96BF5E6760,Hincha digital intensivo,25-34,Hombre,No socio,3.0,A Coruña
+AF-0FCB0832DC,Hincha digital intensivo,25-34,Hombre,No socio,10.0,A Coruña
+AF-F4FDAB6E70,Aficionado latente,25-34,Hombre,Socio digital,9.0,Pontevedra
+AF-4365D154DA,Consumidor de resultados,45-54,Mujer,No socio,5.0,A Coruña
+AF-704845ED89,Consumidor de resultados,35-44,Hombre,No socio,12.0,Otras
+AF-DAAB6FFE3D,Consumidor de resultados,25-34,Hombre,Abonado,2.0,A Coruña
+AF-F0194A4D43,Consumidor de resultados,45-54,Hombre,No socio,13.0,A Coruña
+AF-FAA97FC643,Aficionado latente,18-24,Mujer,Socio digital,7.0,Pontevedra
+AF-03D634CA98,Aficionado latente,35-44,Hombre,No socio,4.0,Pontevedra
+AF-22943BFCEF,Aficionado latente,35-44,Hombre,Socio digital,5.0,Madrid
+AF-4A93FE6190,Consumidor de resultados,35-44,Hombre,No socio,13.0,Lugo
+AF-483CA29082,Consumidor de resultados,35-44,Hombre,No socio,3.0,Barcelona
+AF-B76471C88F,Consumidor de resultados,45-54,Hombre,Socio digital,4.0,Pontevedra
+AF-499D2E6E40,Aficionado latente,25-34,Hombre,No socio,15.0,Otras
+AF-0D057E3DE5,Consumidor de resultados,35-44,Mujer,No socio,2.0,A Coruña
+AF-39084F7A21,Consumidor de resultados,18-24,Mujer,Socio digital,5.0,Lugo
+AF-30BE22DFD7,Consumidor de resultados,25-34,Mujer,No socio,9.0,A Coruña
+AF-BFACCABAAF,Consumidor de resultados,18-24,Mujer,Socio digital,2.0,A Coruña
+AF-51866E949E,Comprador de servicios,45-54,Hombre,Abonado,10.0,Madrid
+AF-9EBE1888BD,Hincha digital intensivo,18-24,Hombre,Abonado,9.0,A Coruña
+AF-FF88D0731A,Aficionado latente,55+,Mujer,No socio,17.0,A Coruña
+AF-130B2A515C,Comprador de servicios,35-44,Hombre,Abonado,5.0,Pontevedra
+AF-3670E00446,Comprador de servicios,45-54,Mujer,Abonado,3.0,A Coruña
+AF-F03361363C,Consumidor de resultados,18-24,Mujer,No socio,10.0,Madrid
+AF-25D59959DF,Comprador de servicios,35-44,Hombre,Abonado,4.0,A Coruña
+AF-279F89F604,Aficionado latente,25-34,Hombre,No socio,5.0,Madrid
+AF-4873F34A84,Comprador de servicios,25-34,Hombre,Abonado,8.0,A Coruña
+AF-2716298DF0,Hincha digital intensivo,25-34,Hombre,Socio digital,3.0,A Coruña
+AF-2B0497B464,Comprador de servicios,45-54,Mujer,Abonado,18.0,Ourense
+AF-ED86437C03,Consumidor de resultados,35-44,Hombre,No socio,5.0,Pontevedra
+AF-853D36E33D,Comprador de servicios,45-54,Mujer,Socio digital,9.0,Pontevedra
+AF-CAD73F7733,Aficionado latente,25-34,Hombre,Socio digital,14.0,A Coruña
+AF-FABEBEC4A8,Consumidor de resultados,25-34,Hombre,No socio,7.0,Ourense
+AF-605939DEF4,Hincha digital intensivo,55+,Hombre,Socio digital,6.0,Lugo
+AF-D5A6C63BAF,Comprador de servicios,35-44,Hombre,Abonado,12.0,Pontevedra
+AF-61616B8224,Aficionado latente,25-34,Hombre,Socio digital,7.0,Lugo
+AF-B0AF6EF266,Comprador de servicios,45-54,Hombre,Socio digital,4.0,Otras
+AF-33F3C6A6EB,Consumidor de resultados,55+,Hombre,Abonado,3.0,A Coruña
+AF-992B008339,Comprador de servicios,55+,Hombre,Abonado,2.0,Pontevedra
+AF-CCA56DB742,Consumidor de resultados,25-34,Mujer,Abonado,7.0,Madrid
+AF-73A82986B4,Aficionado latente,35-44,Mujer,Abonado,7.0,A Coruña
+AF-411CCC972A,Hincha digital intensivo,25-34,Hombre,Socio digital,11.0,A Coruña
+AF-BC2E7E9522,Comprador de servicios,45-54,Hombre,Socio digital,9.0,Lugo
+AF-C97ADEEAFA,Consumidor de resultados,18-24,Hombre,No socio,6.0,A Coruña
+AF-7A0C082147,Aficionado latente,35-44,Hombre,Socio digital,5.0,A Coruña
+AF-B865AC68B8,Consumidor de resultados,35-44,Hombre,Socio digital,5.0,Madrid
+AF-6D6D5DD585,Consumidor de resultados,55+,Hombre,Abonado,8.0,Lugo
+AF-A5BCAA21AA,Hincha digital intensivo,25-34,Mujer,Socio digital,4.0,Madrid
+AF-2709F3A6AE,Consumidor de resultados,45-54,Hombre,Socio digital,5.0,Pontevedra
+AF-D67A3466DB,Consumidor de resultados,45-54,Hombre,Abonado,7.0,Pontevedra
+AF-666FF1AF72,Aficionado latente,55+,Hombre,Abonado,9.0,Lugo
+AF-9B396B4AC8,Hincha digital intensivo,25-34,Hombre,No socio,3.0,A Coruña
+AF-C8F99B68A8,Consumidor de resultados,25-34,Hombre,No socio,1.0,A Coruña
+AF-4E051C1234,Aficionado latente,35-44,Hombre,No socio,9.0,Pontevedra
+AF-CCAD65DC85,Consumidor de resultados,18-24,Hombre,No socio,6.0,Madrid
+AF-E58B5E305C,Hincha digital intensivo,18-24,Mujer,Socio digital,15.0,A Coruña
+AF-2D318F03BF,Aficionado latente,35-44,Hombre,Socio digital,8.0,A Coruña
+AF-A71DF0D306,Comprador de servicios,35-44,Hombre,Abonado,0.0,A Coruña
+AF-E94D66D8D3,Hincha digital intensivo,25-34,Mujer,Socio digital,9.0,A Coruña
+AF-6085D9B28F,Comprador de servicios,35-44,Hombre,Abonado,3.0,A Coruña
+AF-750D117732,Consumidor de resultados,35-44,Hombre,Socio digital,8.0,A Coruña
+AF-4ACB7D54DA,Hincha digital intensivo,25-34,Hombre,No socio,6.0,Madrid
+AF-2C73FA4BD9,Hincha digital intensivo,35-44,Hombre,No socio,12.0,Otras
+AF-84880B8446,Aficionado latente,45-54,Hombre,Socio digital,6.0,A Coruña
+AF-31846F2740,Aficionado latente,55+,Mujer,No socio,7.0,Pontevedra
+AF-3EC455D7F5,Hincha digital intensivo,45-54,Mujer,Abonado,2.0,Otras
+AF-EF7CDBE0E4,Aficionado latente,55+,Hombre,No socio,12.0,A Coruña
+AF-B2117015C6,Comprador de servicios,35-44,Mujer,No socio,3.0,Madrid
+AF-7425A4BA73,Comprador de servicios,45-54,Hombre,Abonado,4.0,Asturias
+AF-97461CE226,Aficionado latente,18-24,Hombre,Abonado,3.0,A Coruña
+AF-26725729A2,Hincha digital intensivo,25-34,Hombre,No socio,6.0,Pontevedra
+AF-E643716928,Aficionado latente,45-54,Mujer,Abonado,4.0,Lugo
+AF-EE669B5438,Aficionado latente,55+,Hombre,Socio digital,3.0,Pontevedra
+AF-942B80F7DF,Comprador de servicios,35-44,Mujer,Abonado,11.0,A Coruña
+AF-9B38096B16,Consumidor de resultados,55+,Hombre,No socio,11.0,Ourense
+AF-A2B6DEE9D6,Aficionado latente,18-24,Mujer,Abonado,4.0,Madrid
+AF-7211CAF04E,Consumidor de resultados,25-34,Hombre,No socio,6.0,Asturias
+AF-32B6B8F809,Comprador de servicios,35-44,Hombre,Abonado,2.0,A Coruña
+AF-6031C61A44,Consumidor de resultados,45-54,Hombre,No socio,6.0,A Coruña
+AF-6D0E90AC99,Consumidor de resultados,18-24,Hombre,Socio digital,6.0,Asturias
+AF-2FB03E3AE9,Consumidor de resultados,18-24,Hombre,Socio digital,6.0,Pontevedra
+AF-A1D89D1E17,Aficionado latente,45-54,Mujer,No socio,8.0,A Coruña
+AF-74C32E08F3,Comprador de servicios,45-54,Hombre,Socio digital,1.0,Madrid
+AF-7A81E970BD,Aficionado latente,25-34,Hombre,No socio,8.0,A Coruña
+AF-5D71B1690F,Comprador de servicios,55+,Hombre,Socio digital,13.0,Madrid
+AF-AD1ABBB16A,Hincha digital intensivo,35-44,Hombre,No socio,14.0,A Coruña
+AF-9DB67598D7,Comprador de servicios,55+,Hombre,Abonado,5.0,A Coruña
+AF-AC49CE43FC,Comprador de servicios,25-34,Mujer,Abonado,12.0,Madrid
+AF-89D81DE43B,Hincha digital intensivo,18-24,Mujer,Socio digital,16.0,A Coruña
+AF-4F09C94F6B,Consumidor de resultados,45-54,Hombre,No socio,2.0,A Coruña
+AF-B2B8EF2BE1,Consumidor de resultados,35-44,Mujer,No socio,11.0,A Coruña
+AF-837767BE25,Consumidor de resultados,55+,Hombre,No socio,9.0,Madrid
+AF-49B98FC918,Consumidor de resultados,55+,Mujer,Abonado,8.0,Barcelona
+AF-4A5049FDAB,Aficionado latente,25-34,Hombre,Abonado,19.0,A Coruña
+AF-F80DBCEDBE,Comprador de servicios,55+,Hombre,Abonado,7.0,Ourense
+AF-F5D77309A8,Consumidor de resultados,45-54,Mujer,Abonado,7.0,A Coruña
+AF-D019E6F21E,Consumidor de resultados,18-24,Mujer,No socio,3.0,Madrid
+AF-D65191B26C,Hincha digital intensivo,35-44,Hombre,No socio,6.0,Pontevedra
+AF-076E09C67B,Comprador de servicios,45-54,Hombre,No socio,8.0,Madrid
+AF-EDC9062F13,Consumidor de resultados,45-54,Hombre,No socio,5.0,Ourense
+AF-785C76ACA5,Consumidor de resultados,55+,Hombre,Socio digital,14.0,A Coruña
+AF-4964E872B3,Aficionado latente,55+,Hombre,No socio,7.0,Madrid
+AF-85017B25B8,Aficionado latente,18-24,Hombre,Abonado,5.0,Pontevedra
+AF-ECAE472D86,Hincha digital intensivo,18-24,Mujer,Socio digital,2.0,A Coruña
+AF-9F6CAF40B7,Hincha digital intensivo,25-34,Hombre,No socio,10.0,A Coruña
+AF-12623AE27D,Comprador de servicios,35-44,Hombre,Abonado,20.0,Madrid
+AF-2D0CAF1507,Hincha digital intensivo,35-44,Hombre,Socio digital,7.0,A Coruña
+AF-41E7C879CB,Comprador de servicios,25-34,Hombre,Abonado,3.0,A Coruña
+AF-A4EEECF670,Hincha digital intensivo,25-34,Hombre,No socio,10.0,A Coruña
+AF-445D60A9A5,Hincha digital intensivo,18-24,Mujer,Abonado,11.0,Lugo
+AF-D33A020946,Hincha digital intensivo,25-34,Hombre,Socio digital,8.0,A Coruña
+AF-71DE95CC9E,Comprador de servicios,35-44,Hombre,Abonado,5.0,A Coruña
+AF-20F26FED39,Aficionado latente,18-24,Hombre,Abonado,6.0,Ourense
+AF-A16A59BF40,Aficionado latente,25-34,Hombre,No socio,10.0,A Coruña
+AF-E6B1572580,Comprador de servicios,35-44,Hombre,No socio,11.0,A Coruña
+AF-5AB22884B3,Hincha digital intensivo,25-34,Hombre,Abonado,2.0,A Coruña
+AF-D5545C86D5,Hincha digital intensivo,45-54,Hombre,No socio,9.0,A Coruña
+AF-E8471D527C,Aficionado latente,35-44,Mujer,No socio,12.0,A Coruña
+AF-623F68C917,Aficionado latente,18-24,Hombre,No socio,10.0,Asturias
+AF-5ED170D014,Comprador de servicios,35-44,Hombre,Abonado,4.0,A Coruña
+AF-7757FC21A2,Consumidor de resultados,35-44,Hombre,Socio digital,13.0,Otras
+AF-8F88B5FC29,Hincha digital intensivo,25-34,Mujer,Abonado,7.0,A Coruña
+AF-262CEEA441,Hincha digital intensivo,35-44,Hombre,No socio,12.0,Barcelona
+AF-09F8233C0A,Consumidor de resultados,45-54,Hombre,No socio,7.0,A Coruña
+AF-47DD2669D9,Comprador de servicios,45-54,Hombre,Abonado,19.0,A Coruña
+AF-806A463418,Comprador de servicios,55+,Mujer,Abonado,13.0,A Coruña
+AF-E0A8AA3606,Consumidor de resultados,25-34,Mujer,No socio,3.0,Otras
+AF-61B7EE7B98,Comprador de servicios,45-54,Mujer,Abonado,7.0,A Coruña
+AF-118042060B,Consumidor de resultados,35-44,Mujer,Socio digital,11.0,Pontevedra
+AF-3EB5B4557D,Aficionado latente,18-24,Mujer,No socio,3.0,Pontevedra
+AF-4EC82DA97D,Hincha digital intensivo,25-34,Hombre,Socio digital,6.0,A Coruña
+AF-04D0F10B98,Consumidor de resultados,25-34,Hombre,Socio digital,6.0,Pontevedra
+AF-C245DC3177,Aficionado latente,35-44,Hombre,No socio,5.0,Ourense
+AF-04DBEBA3C5,Comprador de servicios,25-34,Hombre,Abonado,6.0,Barcelona
+AF-B6CE9C5AFC,Consumidor de resultados,25-34,Mujer,No socio,14.0,Barcelona
+AF-4FEBC00860,Consumidor de resultados,45-54,Hombre,Abonado,1.0,Lugo
+AF-946C2AC3B0,Consumidor de resultados,55+,Hombre,No socio,9.0,Madrid
+AF-F7815FC299,Hincha digital intensivo,35-44,Mujer,Socio digital,26.0,A Coruña
+AF-228374CD90,Hincha digital intensivo,25-34,Mujer,No socio,1.0,Pontevedra
+AF-69E234ECF6,Consumidor de resultados,45-54,Hombre,Abonado,7.0,A Coruña
+AF-5057911E8E,Aficionado latente,25-34,Hombre,Abonado,19.0,A Coruña
+AF-027ECD0846,Consumidor de resultados,35-44,Mujer,Abonado,10.0,A Coruña
+AF-3D1827CA97,Consumidor de resultados,35-44,Mujer,No socio,14.0,Asturias
+AF-3A97ABB22B,Comprador de servicios,25-34,Hombre,Abonado,3.0,Pontevedra
+AF-C487B546D4,Comprador de servicios,25-34,Mujer,Socio digital,12.0,Ourense
+AF-17D1B3DB60,Hincha digital intensivo,18-24,Hombre,Abonado,29.0,Pontevedra
+AF-CB99CADC91,Hincha digital intensivo,18-24,Hombre,Socio digital,10.0,A Coruña
+AF-0F2D8761CA,Hincha digital intensivo,25-34,Hombre,No socio,7.0,A Coruña
+AF-0A5B837F85,Consumidor de resultados,25-34,Mujer,No socio,5.0,Pontevedra
+AF-02C82EFF49,Consumidor de resultados,35-44,Hombre,No socio,2.0,Pontevedra
+AF-D1FA14B7A6,Consumidor de resultados,55+,Mujer,Abonado,6.0,A Coruña
+AF-B6A9ABC3B4,Hincha digital intensivo,35-44,Mujer,Abonado,2.0,Otras
+AF-FB5CBC2F98,Hincha digital intensivo,35-44,Hombre,Socio digital,12.0,A Coruña
+AF-1A96AEB0B6,Comprador de servicios,55+,Mujer,Abonado,12.0,Otras
+AF-7730FD8905,Consumidor de resultados,55+,Hombre,No socio,5.0,Barcelona
+AF-B6E1A8468B,Comprador de servicios,35-44,Mujer,Abonado,6.0,Barcelona
+AF-643B8C46A6,Aficionado latente,35-44,Hombre,No socio,3.0,Pontevedra
+AF-8A1E1404DE,Comprador de servicios,45-54,Hombre,Abonado,11.0,Madrid
+AF-784620D50D,Consumidor de resultados,18-24,Hombre,Socio digital,13.0,Madrid
+AF-90A22B1047,Consumidor de resultados,35-44,Hombre,No socio,2.0,Lugo
+AF-95C66B4A9F,Hincha digital intensivo,18-24,Hombre,Socio digital,2.0,A Coruña
+AF-565236F9D3,Hincha digital intensivo,35-44,Hombre,No socio,1.0,Pontevedra
+AF-4534C1FDBB,Consumidor de resultados,25-34,Hombre,No socio,7.0,Lugo
+AF-771D836FA3,Comprador de servicios,18-24,Mujer,Abonado,14.0,Madrid
+AF-2C86A8F215,Comprador de servicios,45-54,Mujer,No socio,5.0,A Coruña
+AF-39AB1EBECF,Aficionado latente,45-54,Mujer,No socio,11.0,A Coruña
+AF-9AEC85D6A7,Comprador de servicios,35-44,Mujer,Socio digital,6.0,Ourense
+AF-2135549A0A,Aficionado latente,35-44,Mujer,Abonado,8.0,Madrid
+AF-E25A1063D1,Consumidor de resultados,55+,Mujer,No socio,3.0,A Coruña
+AF-06E796FFEA,Comprador de servicios,45-54,Hombre,Abonado,3.0,A Coruña
+AF-063725924D,Hincha digital intensivo,35-44,Hombre,Socio digital,4.0,A Coruña
+AF-3005BC14AD,Aficionado latente,35-44,Hombre,Socio digital,7.0,Pontevedra
+AF-7168C9948C,Aficionado latente,55+,Hombre,No socio,12.0,Madrid
+AF-22BCC89F0E,Consumidor de resultados,45-54,Hombre,Abonado,10.0,Lugo
+AF-783CEED859,Consumidor de resultados,55+,Mujer,Abonado,9.0,Pontevedra
+AF-3C8BF629BC,Comprador de servicios,35-44,Hombre,Abonado,15.0,Madrid
+AF-7E6B957EEC,Aficionado latente,45-54,Hombre,No socio,5.0,A Coruña
+AF-EDE444A92F,Consumidor de resultados,55+,Hombre,No socio,3.0,Barcelona
+AF-43EE528EDF,Aficionado latente,25-34,Mujer,Abonado,5.0,A Coruña
+AF-BDA0BD8B3A,Aficionado latente,45-54,Mujer,Socio digital,2.0,A Coruña
+AF-8ACBF0FB02,Aficionado latente,18-24,Hombre,No socio,8.0,A Coruña
+AF-C0C696BEE6,Comprador de servicios,35-44,Mujer,Abonado,7.0,A Coruña
+AF-5726AA5B69,Hincha digital intensivo,18-24,Hombre,No socio,1.0,Asturias
+AF-61D4F0275F,Consumidor de resultados,55+,Mujer,No socio,5.0,A Coruña
+AF-FD169E6D4F,Consumidor de resultados,18-24,Hombre,No socio,20.0,Madrid
+AF-E477BF3742,Consumidor de resultados,35-44,Mujer,Socio digital,6.0,Ourense
+AF-A9B515885B,Consumidor de resultados,55+,Mujer,No socio,8.0,Ourense
+AF-A0EEA451DD,Aficionado latente,55+,Hombre,Abonado,4.0,Madrid
+AF-1DE6615CB1,Comprador de servicios,45-54,Hombre,No socio,0.0,Asturias
+AF-E78600F0D8,Aficionado latente,18-24,Mujer,Abonado,10.0,A Coruña
+AF-73DD7B46B1,Aficionado latente,35-44,Hombre,Abonado,3.0,A Coruña
+AF-02A35A9D15,Comprador de servicios,55+,Hombre,Abonado,5.0,Ourense
+AF-2424356104,Consumidor de resultados,55+,Hombre,Abonado,1.0,A Coruña
+AF-9054BE71B0,Comprador de servicios,45-54,Mujer,Abonado,2.0,Asturias
+AF-0D4054E384,Comprador de servicios,35-44,Mujer,Socio digital,5.0,A Coruña
+AF-D14DF871ED,Aficionado latente,45-54,Hombre,No socio,14.0,Madrid
+AF-D4B0D79CB5,Consumidor de resultados,35-44,Mujer,No socio,16.0,Lugo
+AF-F4E6EAE2E4,Hincha digital intensivo,55+,Hombre,Socio digital,19.0,Pontevedra
+AF-921575732B,Hincha digital intensivo,25-34,Hombre,Abonado,8.0,A Coruña
+AF-6048248F7E,Hincha digital intensivo,25-34,Mujer,No socio,8.0,Madrid
+AF-0CA63A9E97,Consumidor de resultados,25-34,Mujer,No socio,5.0,Asturias
+AF-CAA11DA12E,Hincha digital intensivo,18-24,Mujer,Abonado,28.0,Lugo
+AF-31A188280B,Hincha digital intensivo,25-34,Hombre,Abonado,2.0,A Coruña
+AF-4C8F46E88C,Hincha digital intensivo,25-34,Mujer,Socio digital,12.0,A Coruña
+AF-B6AA621009,Hincha digital intensivo,25-34,Mujer,Abonado,12.0,A Coruña
+AF-064EE74A7A,Hincha digital intensivo,25-34,Mujer,Abonado,12.0,Asturias
+AF-6E7ADDFE8E,Comprador de servicios,45-54,Hombre,Abonado,7.0,Madrid
+AF-71240194AA,Hincha digital intensivo,25-34,Mujer,Socio digital,4.0,A Coruña
+AF-DCCE581116,Hincha digital intensivo,25-34,Hombre,No socio,7.0,Lugo
+AF-73BDBBB15B,Aficionado latente,35-44,Hombre,Socio digital,14.0,Madrid
+AF-BF2AA16B02,Comprador de servicios,45-54,Hombre,Abonado,9.0,Madrid
+AF-B8BD5FC0D3,Consumidor de resultados,45-54,Hombre,Socio digital,1.0,A Coruña
+AF-BF211F57B8,Comprador de servicios,55+,Hombre,Abonado,2.0,Pontevedra
+AF-B8680FC0DE,Aficionado latente,45-54,Hombre,No socio,12.0,A Coruña
+AF-6739DA3921,Consumidor de resultados,35-44,Mujer,Abonado,20.0,Pontevedra
+AF-7286602DA8,Consumidor de resultados,55+,Mujer,No socio,2.0,Lugo
+AF-D2C1306F5E,Hincha digital intensivo,18-24,Mujer,Socio digital,21.0,Lugo
+AF-D672183C04,Aficionado latente,25-34,Hombre,No socio,16.0,A Coruña
+AF-E9715A55AC,Comprador de servicios,35-44,Mujer,Abonado,5.0,A Coruña
+AF-7490BA31EB,Consumidor de resultados,45-54,Hombre,No socio,5.0,Lugo
+AF-DDAC028467,Comprador de servicios,45-54,Hombre,Socio digital,7.0,Barcelona
+AF-95E7FBD226,Hincha digital intensivo,45-54,Hombre,Socio digital,4.0,Pontevedra
+AF-56CBCA4EC9,Hincha digital intensivo,25-34,Mujer,Abonado,16.0,Pontevedra
+AF-32CBDF5462,Comprador de servicios,35-44,Hombre,Socio digital,3.0,A Coruña
+AF-E37E95AB99,Comprador de servicios,45-54,Hombre,Abonado,12.0,A Coruña
+AF-54C581C079,Aficionado latente,35-44,Hombre,Socio digital,1.0,A Coruña
+AF-E350A07C33,Hincha digital intensivo,35-44,Mujer,Abonado,12.0,A Coruña
+AF-E91D4B70F7,Comprador de servicios,45-54,Hombre,Abonado,5.0,Otras
+AF-F1AE71CD27,Comprador de servicios,25-34,Hombre,Abonado,1.0,Pontevedra
+AF-B3125BD73A,Comprador de servicios,25-34,Hombre,Socio digital,8.0,Asturias
+AF-AAF28C306F,Consumidor de resultados,25-34,Mujer,No socio,4.0,Madrid
+AF-BA6218848A,Hincha digital intensivo,18-24,Mujer,Socio digital,9.0,Lugo
+AF-E51BBBA74D,Aficionado latente,25-34,Hombre,No socio,7.0,Otras
+AF-8E007AC831,Hincha digital intensivo,25-34,Hombre,No socio,7.0,A Coruña
+AF-23E7CD97FB,Consumidor de resultados,55+,Hombre,Socio digital,3.0,A Coruña
+AF-7C70190008,Consumidor de resultados,55+,Mujer,No socio,7.0,Otras
+AF-9E92A11AE0,Consumidor de resultados,55+,Hombre,No socio,1.0,A Coruña
+AF-7F077038DA,Hincha digital intensivo,25-34,Hombre,Abonado,15.0,Madrid
+AF-2E38C94BD4,Aficionado latente,18-24,Mujer,Socio digital,7.0,Otras
+AF-F8B3798CFF,Hincha digital intensivo,18-24,Hombre,Socio digital,6.0,A Coruña
+AF-B17A0635D6,Aficionado latente,55+,Hombre,No socio,3.0,Lugo
+AF-F06C58B2ED,Aficionado latente,55+,Hombre,No socio,1.0,A Coruña
+AF-1ED2719FF6,Aficionado latente,55+,Hombre,No socio,11.0,A Coruña
+AF-2C88736DDF,Consumidor de resultados,18-24,Hombre,No socio,12.0,Barcelona
+AF-5EA0C192C0,Comprador de servicios,55+,Hombre,Abonado,7.0,Pontevedra
+AF-A8BA719393,Comprador de servicios,25-34,Mujer,Abonado,5.0,A Coruña
+AF-25AC913C63,Consumidor de resultados,18-24,Hombre,Socio digital,1.0,A Coruña
+AF-15816AB56F,Comprador de servicios,25-34,Hombre,Socio digital,5.0,Pontevedra
+AF-3B299DF653,Hincha digital intensivo,35-44,Mujer,Socio digital,12.0,Pontevedra
+AF-FE4ED3A507,Consumidor de resultados,45-54,Hombre,Abonado,4.0,Lugo
+AF-E304D4E58A,Consumidor de resultados,45-54,Hombre,Socio digital,7.0,A Coruña
+AF-A514E7F4C4,Aficionado latente,25-34,Hombre,Abonado,16.0,Otras
+AF-A6B472DC62,Aficionado latente,45-54,Hombre,Socio digital,13.0,Lugo
+AF-DCE9CF55E3,Consumidor de resultados,25-34,Hombre,No socio,6.0,Asturias
+AF-BE254D0C5C,Hincha digital intensivo,45-54,Hombre,Socio digital,7.0,Ourense
+AF-B45736132B,Hincha digital intensivo,25-34,Hombre,Abonado,11.0,Barcelona
+AF-EB834A9CC6,Hincha digital intensivo,25-34,Hombre,Socio digital,4.0,Otras
+AF-528946D5C2,Consumidor de resultados,25-34,Hombre,No socio,2.0,Pontevedra
+AF-313D47FAE8,Aficionado latente,45-54,Hombre,Socio digital,10.0,A Coruña
+AF-06B85A6B73,Comprador de servicios,25-34,Hombre,Abonado,10.0,Otras
+AF-314BAC5A5F,Aficionado latente,55+,Hombre,Abonado,18.0,A Coruña
+AF-E7F9DD59D3,Consumidor de resultados,25-34,Mujer,Socio digital,3.0,Lugo
+AF-B7402D83BE,Consumidor de resultados,35-44,Hombre,No socio,13.0,A Coruña
+AF-0FEF8001D4,Consumidor de resultados,45-54,Hombre,No socio,13.0,A Coruña
+AF-0BB77388F8,Aficionado latente,45-54,Hombre,Socio digital,6.0,Madrid
+AF-2D617E94B7,Comprador de servicios,35-44,Mujer,Abonado,8.0,Asturias
+AF-811B34569C,Consumidor de resultados,25-34,Hombre,Abonado,1.0,A Coruña
+AF-6CD6EA2806,Consumidor de resultados,55+,Mujer,Abonado,8.0,Ourense
+AF-6AEC73C448,Aficionado latente,25-34,Hombre,Abonado,2.0,A Coruña
+AF-C4AED358FF,Consumidor de resultados,25-34,Mujer,Socio digital,3.0,Ourense
+AF-D33EF28119,Consumidor de resultados,18-24,Hombre,Abonado,4.0,Pontevedra
+AF-94BFB9A14F,Comprador de servicios,45-54,Hombre,No socio,4.0,A Coruña
+AF-60E3C0FB6B,Consumidor de resultados,25-34,Hombre,No socio,6.0,Barcelona
+AF-054EFC40AB,Aficionado latente,55+,Hombre,Socio digital,16.0,A Coruña
+AF-97D3FFD809,Consumidor de resultados,45-54,Hombre,No socio,7.0,A Coruña
+AF-67199B8249,Consumidor de resultados,25-34,Hombre,Abonado,11.0,Madrid
+AF-D60E0395A7,Aficionado latente,18-24,Mujer,Abonado,4.0,A Coruña
+AF-B5D3310B39,Comprador de servicios,55+,Hombre,Abonado,10.0,A Coruña
+AF-9440E8980A,Consumidor de resultados,45-54,Hombre,Abonado,8.0,A Coruña
+AF-45C9E33A76,Comprador de servicios,25-34,Mujer,Abonado,3.0,A Coruña
+AF-930AF26DB5,Hincha digital intensivo,35-44,Hombre,Socio digital,5.0,Otras
+AF-BC60462A58,Hincha digital intensivo,25-34,Hombre,Socio digital,5.0,A Coruña
+AF-2960F24BB7,Consumidor de resultados,25-34,Hombre,No socio,14.0,A Coruña
+AF-4A902DE8AB,Comprador de servicios,35-44,Mujer,Abonado,17.0,Lugo
+AF-FD9EBACEF7,Comprador de servicios,25-34,Hombre,Abonado,3.0,Barcelona
+AF-1578816274,Comprador de servicios,45-54,Mujer,Socio digital,11.0,A Coruña
+AF-0FDA4033C8,Consumidor de resultados,18-24,Hombre,No socio,5.0,Lugo
+AF-B6A480694B,Aficionado latente,45-54,Hombre,No socio,9.0,Ourense
+AF-BEF8E6C02E,Comprador de servicios,35-44,Mujer,Socio digital,6.0,Madrid
+AF-3DECBCDD7A,Hincha digital intensivo,18-24,Hombre,Abonado,11.0,Asturias
+AF-D6874836A0,Consumidor de resultados,25-34,Hombre,Abonado,11.0,A Coruña
+AF-E1E0CC4964,Aficionado latente,25-34,Hombre,No socio,5.0,Pontevedra
+AF-AC748947E0,Aficionado latente,45-54,Mujer,Abonado,5.0,Lugo
+AF-41C7FA0A20,Consumidor de resultados,25-34,Hombre,No socio,12.0,A Coruña
+AF-F42F27000D,Hincha digital intensivo,55+,Hombre,Socio digital,13.0,Otras
+AF-73F2EAC649,Hincha digital intensivo,25-34,Hombre,Socio digital,5.0,A Coruña
+AF-5503C9A8B6,Aficionado latente,55+,Mujer,Socio digital,12.0,Pontevedra
+AF-18E8F708B2,Comprador de servicios,45-54,Mujer,Abonado,1.0,A Coruña
+AF-9B339FE3D7,Consumidor de resultados,45-54,Mujer,No socio,9.0,Asturias
+AF-FA61232878,Hincha digital intensivo,35-44,Hombre,No socio,7.0,A Coruña
+AF-2AE3C11A5A,Hincha digital intensivo,55+,Hombre,Socio digital,5.0,Asturias
+AF-CEA03B8CF3,Comprador de servicios,25-34,Hombre,Socio digital,8.0,A Coruña
+AF-344FFC8646,Consumidor de resultados,35-44,Hombre,Socio digital,7.0,Otras
+AF-1A078F03DE,Hincha digital intensivo,25-34,Hombre,Socio digital,10.0,Otras
+AF-29857A14B8,Aficionado latente,35-44,Mujer,No socio,10.0,Lugo
+AF-BFE4BEF742,Comprador de servicios,25-34,Hombre,Abonado,14.0,A Coruña
+AF-BEE709EF3C,Consumidor de resultados,45-54,Hombre,No socio,10.0,A Coruña
+AF-D5EAE715D3,Comprador de servicios,18-24,Mujer,Socio digital,7.0,A Coruña
+AF-7858C465F7,Consumidor de resultados,45-54,Hombre,No socio,4.0,Madrid
+AF-7BE14E4035,Hincha digital intensivo,25-34,Hombre,Abonado,15.0,A Coruña
+AF-210A4263F3,Consumidor de resultados,45-54,Mujer,No socio,5.0,A Coruña
+AF-8264AFF768,Hincha digital intensivo,35-44,Hombre,Socio digital,6.0,Madrid
+AF-56F4273020,Aficionado latente,18-24,Hombre,Abonado,6.0,Barcelona
+AF-40CB095453,Hincha digital intensivo,45-54,Mujer,Socio digital,3.0,Pontevedra
+AF-E6CB085649,Consumidor de resultados,35-44,Mujer,Socio digital,9.0,Barcelona
+AF-288B7E21E6,Comprador de servicios,45-54,Mujer,Abonado,4.0,Pontevedra
+AF-68C90610D5,Comprador de servicios,35-44,Mujer,Socio digital,2.0,Lugo
+AF-F5AF38DE4D,Hincha digital intensivo,45-54,Hombre,No socio,1.0,A Coruña
+AF-E54814A591,Comprador de servicios,25-34,Hombre,Socio digital,3.0,A Coruña
+AF-8C0B0CE6C9,Consumidor de resultados,45-54,Hombre,Abonado,3.0,Lugo
+AF-9DCE1913BB,Consumidor de resultados,55+,Hombre,No socio,6.0,Asturias
+AF-5BAC285A91,Hincha digital intensivo,55+,Hombre,Socio digital,11.0,Barcelona
+AF-C4B8AF7629,Comprador de servicios,25-34,Mujer,Abonado,7.0,A Coruña
+AF-7D3DDDC97E,Aficionado latente,55+,Hombre,No socio,5.0,A Coruña
+AF-5A7247B06E,Consumidor de resultados,45-54,Hombre,Abonado,8.0,A Coruña
+AF-C38A9A8284,Consumidor de resultados,45-54,Mujer,No socio,19.0,A Coruña
+AF-76BBA056AB,Comprador de servicios,45-54,Hombre,Abonado,1.0,Pontevedra
+AF-D26D1F6C4C,Comprador de servicios,35-44,Hombre,Socio digital,9.0,Madrid
+AF-F111EFA00C,Comprador de servicios,55+,Hombre,Abonado,3.0,A Coruña
+AF-E810EC3CBE,Consumidor de resultados,25-34,Mujer,Socio digital,9.0,Ourense
+AF-508613CFE6,Aficionado latente,45-54,Hombre,No socio,5.0,Lugo
+AF-E4E53CE38A,Consumidor de resultados,25-34,Hombre,Abonado,4.0,Pontevedra
+AF-767FCA3290,Aficionado latente,45-54,Mujer,No socio,5.0,Pontevedra
+AF-396B804EB7,Hincha digital intensivo,18-24,Mujer,Abonado,5.0,Pontevedra
+AF-BDFAA47536,Comprador de servicios,35-44,Hombre,No socio,1.0,Asturias
+AF-D8010F6B6D,Consumidor de resultados,25-34,Hombre,No socio,4.0,A Coruña
+AF-09BA2BDDC8,Aficionado latente,45-54,Mujer,No socio,6.0,Pontevedra
+AF-7E9046CB83,Consumidor de resultados,45-54,Hombre,Abonado,1.0,Ourense
+AF-EE8EE096FF,Aficionado latente,55+,Hombre,No socio,8.0,Ourense
+AF-FBF5B7FB5B,Consumidor de resultados,18-24,Hombre,No socio,2.0,Pontevedra
+AF-FC84973CF3,Aficionado latente,35-44,Hombre,No socio,6.0,A Coruña
+AF-132738D11C,Aficionado latente,18-24,Mujer,Abonado,10.0,Pontevedra
+AF-CF6B499188,Consumidor de resultados,45-54,Hombre,No socio,2.0,Pontevedra
+AF-AD44A0FA83,Comprador de servicios,45-54,Mujer,Abonado,1.0,Asturias
+AF-752BBBE3E8,Consumidor de resultados,55+,Mujer,No socio,10.0,Pontevedra
+AF-4DCFDC2E87,Comprador de servicios,25-34,Mujer,Socio digital,2.0,Pontevedra
+AF-AE1384CE06,Consumidor de resultados,35-44,Hombre,No socio,14.0,Barcelona
+AF-1E7698366F,Aficionado latente,35-44,Hombre,No socio,6.0,Otras
+AF-DC3A86274E,Comprador de servicios,45-54,Hombre,Abonado,9.0,Pontevedra
+AF-E6C403B3D1,Consumidor de resultados,18-24,Hombre,No socio,11.0,Asturias
+AF-C950718288,Aficionado latente,18-24,Hombre,Abonado,7.0,A Coruña
+AF-78F509EE80,Comprador de servicios,25-34,Mujer,Abonado,22.0,A Coruña
+AF-C806163C21,Aficionado latente,55+,Mujer,No socio,8.0,Pontevedra
+AF-B41BAA4830,Consumidor de resultados,45-54,Mujer,Abonado,10.0,A Coruña
+AF-08AE35D132,Consumidor de resultados,45-54,Hombre,Abonado,2.0,A Coruña
+AF-333B9067DB,Consumidor de resultados,45-54,Hombre,No socio,23.0,A Coruña
+AF-28802517C2,Aficionado latente,25-34,Hombre,Socio digital,4.0,Lugo
+AF-579F310140,Hincha digital intensivo,18-24,Mujer,No socio,7.0,A Coruña
+AF-6659B1026E,Consumidor de resultados,35-44,Hombre,Socio digital,11.0,Barcelona
+AF-53D9381CF3,Aficionado latente,35-44,Hombre,No socio,6.0,Ourense
+AF-CE7F276EB8,Comprador de servicios,45-54,Hombre,Abonado,12.0,Lugo
+AF-956EFE21E3,Hincha digital intensivo,25-34,Mujer,Abonado,7.0,A Coruña
+AF-C16E980D17,Consumidor de resultados,35-44,Hombre,Abonado,9.0,Asturias
+AF-00FA2D2BC6,Consumidor de resultados,45-54,Hombre,Abonado,5.0,Lugo
+AF-A1CFD4FB2C,Hincha digital intensivo,35-44,Hombre,No socio,7.0,A Coruña
+AF-CE8D68B208,Consumidor de resultados,25-34,Mujer,No socio,11.0,Ourense
+AF-33757C42FE,Hincha digital intensivo,25-34,Hombre,No socio,4.0,A Coruña
+AF-666B4CBFFC,Hincha digital intensivo,35-44,Hombre,Socio digital,16.0,Otras
+AF-363F6CA59D,Hincha digital intensivo,45-54,Hombre,Socio digital,10.0,A Coruña
+AF-4D11665E35,Aficionado latente,25-34,Hombre,Socio digital,12.0,A Coruña
+AF-69FE6522DF,Comprador de servicios,35-44,Hombre,Abonado,2.0,Madrid
+AF-8EA697B6B4,Hincha digital intensivo,35-44,Mujer,Socio digital,18.0,A Coruña
+AF-6589720021,Consumidor de resultados,45-54,Hombre,No socio,5.0,A Coruña
+AF-5EE0428FC9,Aficionado latente,35-44,Mujer,Socio digital,10.0,Madrid
+AF-6D9DEF81E2,Aficionado latente,35-44,Mujer,No socio,17.0,A Coruña
+AF-39E8D4984E,Hincha digital intensivo,25-34,Hombre,Abonado,3.0,Ourense
+AF-A3CF75FE5F,Consumidor de resultados,45-54,Mujer,Abonado,3.0,Barcelona
+AF-B1926E7ADA,Aficionado latente,25-34,Mujer,Socio digital,6.0,A Coruña
+AF-FE23118368,Comprador de servicios,55+,Mujer,No socio,3.0,Pontevedra
+AF-3650CA33C1,Comprador de servicios,45-54,Hombre,Socio digital,21.0,A Coruña
+AF-4A4C86C7A3,Aficionado latente,45-54,Hombre,No socio,3.0,A Coruña
+AF-D4E8FBC71F,Consumidor de resultados,35-44,Hombre,No socio,13.0,A Coruña
+AF-1ADD769D07,Consumidor de resultados,35-44,Mujer,No socio,8.0,Pontevedra
+AF-B9A2859E2C,Comprador de servicios,35-44,Hombre,Socio digital,6.0,Pontevedra
+AF-5C7EC9EFC8,Hincha digital intensivo,25-34,Hombre,Socio digital,8.0,A Coruña
+AF-7517792768,Hincha digital intensivo,35-44,Hombre,Abonado,4.0,A Coruña
+AF-3F4CB2F03C,Hincha digital intensivo,25-34,Hombre,Socio digital,1.0,Ourense
+AF-436CF88C5F,Consumidor de resultados,25-34,Mujer,Socio digital,4.0,A Coruña
+AF-E14DC17E78,Comprador de servicios,35-44,Hombre,Abonado,8.0,A Coruña
+AF-0548D864AE,Aficionado latente,55+,Hombre,Abonado,2.0,Madrid
+AF-CE4B0BF811,Hincha digital intensivo,18-24,Hombre,Socio digital,4.0,Ourense
+AF-190D14C94B,Consumidor de resultados,35-44,Hombre,No socio,15.0,A Coruña
+AF-D2C289A3F9,Consumidor de resultados,18-24,Mujer,No socio,2.0,Otras
+AF-7F70E967E7,Aficionado latente,18-24,Mujer,Socio digital,6.0,A Coruña
+AF-0604916F82,Comprador de servicios,25-34,Hombre,No socio,3.0,Asturias
+AF-FAC61A9EE0,Consumidor de resultados,55+,Hombre,Abonado,1.0,A Coruña
+AF-4977F3B974,Hincha digital intensivo,25-34,Mujer,No socio,8.0,A Coruña
+AF-9C95B99F17,Comprador de servicios,35-44,Mujer,Abonado,9.0,Lugo
+AF-E7A57C950D,Hincha digital intensivo,35-44,Mujer,Socio digital,3.0,A Coruña
+AF-7A160A4065,Aficionado latente,25-34,Hombre,Socio digital,7.0,Ourense
+AF-F0FDF79CFE,Consumidor de resultados,55+,Hombre,Socio digital,7.0,A Coruña
+AF-28139FE225,Consumidor de resultados,18-24,Mujer,No socio,1.0,Madrid
+AF-7EC8425146,Aficionado latente,45-54,Hombre,Socio digital,8.0,A Coruña
+AF-E716D868F6,Comprador de servicios,55+,Hombre,Socio digital,13.0,A Coruña
+AF-04C6D6F217,Hincha digital intensivo,18-24,Hombre,Abonado,16.0,A Coruña
+AF-063B0A5E2C,Aficionado latente,45-54,Hombre,No socio,1.0,A Coruña
+AF-BC4757B7FA,Aficionado latente,18-24,Hombre,No socio,1.0,Lugo
+AF-A9542529D0,Consumidor de resultados,18-24,Mujer,No socio,22.0,Otras
+AF-7A21AEF599,Consumidor de resultados,18-24,Hombre,No socio,2.0,Lugo
+AF-977879AE34,Aficionado latente,18-24,Mujer,No socio,4.0,A Coruña
+AF-80579ABDDC,Consumidor de resultados,35-44,Hombre,No socio,9.0,Pontevedra
+AF-1CF8D4F535,Aficionado latente,25-34,Hombre,Socio digital,6.0,A Coruña
+AF-4F0E7535D6,Hincha digital intensivo,45-54,Mujer,Abonado,18.0,Pontevedra
+AF-742A555781,Consumidor de resultados,55+,Hombre,Abonado,8.0,A Coruña
+AF-2256C2ABFF,Hincha digital intensivo,25-34,Hombre,No socio,6.0,A Coruña
+AF-84096F8CD1,Aficionado latente,35-44,Hombre,Socio digital,8.0,Pontevedra
+AF-691ED90E9D,Consumidor de resultados,18-24,Hombre,Abonado,13.0,A Coruña
+AF-22BA54B7D7,Consumidor de resultados,45-54,Mujer,No socio,1.0,Madrid
+AF-2D0C7858B3,Aficionado latente,35-44,Hombre,Socio digital,8.0,Barcelona
+AF-C76051026A,Consumidor de resultados,45-54,Mujer,No socio,4.0,Lugo
+AF-DA76A4ED37,Comprador de servicios,25-34,Mujer,Socio digital,12.0,Barcelona
+AF-DB4A0EB5D7,Consumidor de resultados,45-54,Hombre,No socio,2.0,Madrid
+AF-02BDD3D00F,Comprador de servicios,45-54,Hombre,Abonado,13.0,Asturias
+AF-CE74556850,Aficionado latente,18-24,Mujer,No socio,15.0,A Coruña
+AF-5FCB5267D7,Consumidor de resultados,55+,Hombre,No socio,5.0,A Coruña
+AF-CFFE1972FB,Consumidor de resultados,35-44,Hombre,No socio,13.0,Pontevedra
+AF-AA6AC9D436,Consumidor de resultados,45-54,Hombre,No socio,4.0,Madrid
+AF-23766020C5,Consumidor de resultados,45-54,Mujer,Abonado,3.0,A Coruña
+AF-D4888DA03A,Consumidor de resultados,45-54,Hombre,No socio,18.0,Lugo
+AF-E3B262C636,Consumidor de resultados,45-54,Hombre,No socio,1.0,Otras
+AF-B31FF04E96,Aficionado latente,45-54,Mujer,No socio,4.0,Pontevedra
+AF-4A4B564F27,Consumidor de resultados,45-54,Hombre,No socio,1.0,A Coruña
+AF-52B3CC58FE,Consumidor de resultados,45-54,Hombre,No socio,21.0,A Coruña
+AF-B1E9529394,Aficionado latente,25-34,Hombre,Abonado,2.0,Madrid
+AF-A6682205EB,Comprador de servicios,18-24,Hombre,Abonado,1.0,Otras
+AF-388E6F4188,Hincha digital intensivo,18-24,Mujer,Socio digital,12.0,Otras
+AF-51C31238CB,Consumidor de resultados,55+,Mujer,No socio,3.0,A Coruña
+AF-CB6DAEA47C,Aficionado latente,18-24,Hombre,Socio digital,5.0,Pontevedra
+AF-50BC47A6C5,Comprador de servicios,55+,Hombre,Socio digital,9.0,Madrid
+AF-567C070403,Aficionado latente,45-54,Hombre,Socio digital,2.0,A Coruña
+AF-86B8ED5BC8,Aficionado latente,25-34,Hombre,Socio digital,10.0,A Coruña
+AF-176304C7EC,Comprador de servicios,45-54,Hombre,No socio,12.0,A Coruña
+AF-1F0102AF9E,Consumidor de resultados,55+,Hombre,No socio,13.0,Asturias
+AF-B367780174,Consumidor de resultados,18-24,Hombre,Socio digital,3.0,Asturias
+AF-343DA5D07A,Hincha digital intensivo,45-54,Hombre,No socio,4.0,Ourense
+AF-F2BC9C6A4A,Consumidor de resultados,35-44,Hombre,Abonado,3.0,A Coruña
+AF-13AA254FED,Consumidor de resultados,25-34,Hombre,Abonado,5.0,Otras
+AF-9924F174D9,Aficionado latente,55+,Hombre,No socio,9.0,A Coruña
+AF-E17825CED2,Consumidor de resultados,25-34,Hombre,Abonado,13.0,A Coruña
+AF-D66A7EED5F,Consumidor de resultados,25-34,Mujer,No socio,2.0,A Coruña
+AF-0931741F2F,Aficionado latente,25-34,Hombre,Abonado,10.0,A Coruña
+AF-DE402FBFD6,Aficionado latente,35-44,Hombre,Socio digital,7.0,A Coruña
+AF-F858FA6E51,Aficionado latente,35-44,Hombre,No socio,8.0,Ourense
+AF-00FE5CFD46,Aficionado latente,55+,Mujer,No socio,21.0,A Coruña
+AF-A323534514,Hincha digital intensivo,25-34,Hombre,Socio digital,6.0,Madrid
+AF-674B505C84,Aficionado latente,45-54,Hombre,No socio,4.0,Madrid
+AF-0895EDF174,Aficionado latente,35-44,Hombre,Abonado,3.0,Madrid
+AF-E157D93074,Hincha digital intensivo,35-44,Hombre,Socio digital,14.0,Pontevedra
+AF-5E2D55D347,Consumidor de resultados,35-44,Hombre,Abonado,8.0,Lugo
+AF-F43DBABDC9,Consumidor de resultados,18-24,Mujer,Abonado,18.0,A Coruña
+AF-A53B452B11,Hincha digital intensivo,25-34,Hombre,No socio,7.0,Lugo
+AF-9EDF2A37E3,Aficionado latente,25-34,Hombre,No socio,6.0,Asturias
+AF-D3A901A139,Comprador de servicios,25-34,Hombre,Abonado,12.0,A Coruña
+AF-46EC0EE389,Aficionado latente,18-24,Mujer,No socio,12.0,A Coruña
+AF-C64F470B60,Aficionado latente,35-44,Mujer,No socio,5.0,A Coruña
+AF-4786E9AFE4,Comprador de servicios,55+,Mujer,Abonado,3.0,A Coruña
+AF-B73B717D4A,Consumidor de resultados,25-34,Hombre,No socio,5.0,A Coruña
+AF-861F059B5E,Aficionado latente,55+,Mujer,No socio,5.0,A Coruña
+AF-B4875A483E,Comprador de servicios,55+,Hombre,Abonado,10.0,A Coruña
+AF-E1C4EEA8F9,Comprador de servicios,55+,Hombre,Socio digital,5.0,A Coruña
+AF-D29FDFFAFD,Aficionado latente,25-34,Hombre,Socio digital,4.0,A Coruña
+AF-5495BF12B4,Consumidor de resultados,25-34,Hombre,No socio,12.0,Pontevedra
+AF-1B80BD0EEF,Consumidor de resultados,25-34,Mujer,Socio digital,5.0,A Coruña
+AF-8A4E5C1874,Consumidor de resultados,45-54,Hombre,Socio digital,7.0,Barcelona
+AF-B0F438B681,Consumidor de resultados,35-44,Hombre,No socio,4.0,Pontevedra
+AF-FB1D6759B9,Comprador de servicios,35-44,Mujer,No socio,1.0,Pontevedra
+AF-0E7B8E023C,Comprador de servicios,45-54,Mujer,Abonado,18.0,A Coruña
+AF-72DEA88881,Aficionado latente,35-44,Mujer,Abonado,4.0,Pontevedra
+AF-4BC871B236,Consumidor de resultados,35-44,Mujer,Abonado,15.0,Pontevedra
+AF-AFE492EFA8,Hincha digital intensivo,35-44,Hombre,Abonado,8.0,Pontevedra
+AF-D68A3F1010,Aficionado latente,25-34,Hombre,No socio,10.0,Pontevedra
+AF-57B2FF516F,Consumidor de resultados,25-34,Mujer,No socio,6.0,Madrid
+AF-3371C210A8,Consumidor de resultados,45-54,Mujer,No socio,10.0,Ourense
+AF-856B5BBA22,Aficionado latente,18-24,Hombre,No socio,7.0,A Coruña
+AF-19B9406F5D,Hincha digital intensivo,18-24,Mujer,Abonado,12.0,Pontevedra
+AF-4EF160F776,Consumidor de resultados,55+,Hombre,No socio,3.0,A Coruña
+AF-900F1AAC08,Aficionado latente,25-34,Mujer,No socio,13.0,Pontevedra
+AF-97C0977F8F,Consumidor de resultados,45-54,Hombre,No socio,12.0,A Coruña
+AF-AEB9C00739,Hincha digital intensivo,18-24,Hombre,No socio,1.0,Pontevedra
+AF-2AC349106C,Comprador de servicios,35-44,Hombre,Abonado,9.0,A Coruña
+AF-E57E35A70D,Consumidor de resultados,35-44,Hombre,Abonado,4.0,Asturias
+AF-3AF0E48B90,Hincha digital intensivo,18-24,Hombre,Abonado,7.0,Madrid
+AF-5A5E14FC09,Hincha digital intensivo,35-44,Mujer,Socio digital,8.0,Pontevedra
+AF-C06997C531,Aficionado latente,25-34,Hombre,No socio,11.0,A Coruña
+AF-CA66B53950,Hincha digital intensivo,18-24,Hombre,Socio digital,12.0,A Coruña
+AF-AE02C2287C,Consumidor de resultados,45-54,Hombre,No socio,1.0,A Coruña
+AF-B868EE2932,Consumidor de resultados,25-34,Hombre,No socio,7.0,A Coruña
+AF-D274A3FBF1,Comprador de servicios,35-44,Hombre,Abonado,8.0,Pontevedra
+AF-FC5F6D22B8,Hincha digital intensivo,45-54,Hombre,No socio,5.0,Madrid
+AF-18C71B74AF,Aficionado latente,35-44,Hombre,Abonado,8.0,Madrid
+AF-17229F8639,Comprador de servicios,55+,Hombre,Abonado,2.0,A Coruña
+AF-28ABDB39A6,Comprador de servicios,35-44,Hombre,Abonado,6.0,A Coruña
+AF-53789159B9,Comprador de servicios,35-44,Hombre,Abonado,1.0,A Coruña
+AF-A532530C25,Comprador de servicios,18-24,Mujer,Socio digital,5.0,Madrid
+AF-4A63AFC2B0,Comprador de servicios,35-44,Mujer,Abonado,8.0,A Coruña
+AF-C4C9A84099,Consumidor de resultados,55+,Mujer,No socio,3.0,A Coruña
+AF-2F95F1C24B,Hincha digital intensivo,25-34,Mujer,Socio digital,4.0,A Coruña
+AF-9E21B67652,Consumidor de resultados,35-44,Mujer,No socio,6.0,Pontevedra
+AF-584A573282,Comprador de servicios,45-54,Mujer,Socio digital,12.0,A Coruña
+AF-3120763946,Aficionado latente,45-54,Mujer,Abonado,3.0,A Coruña
+AF-9EA6DB373A,Consumidor de resultados,55+,Hombre,No socio,1.0,A Coruña
+AF-4EF66EABD0,Comprador de servicios,25-34,Mujer,No socio,14.0,Ourense
+AF-0DFE1A6CDC,Aficionado latente,55+,Hombre,No socio,3.0,A Coruña
+AF-1EB6FB5CE7,Hincha digital intensivo,18-24,Hombre,Abonado,8.0,A Coruña
+AF-57809F6A2C,Aficionado latente,25-34,Hombre,No socio,2.0,Pontevedra
+AF-84677026B7,Hincha digital intensivo,18-24,Hombre,Abonado,10.0,Otras
+AF-500EEF08ED,Consumidor de resultados,45-54,Mujer,No socio,7.0,Lugo
+AF-E33131BB8B,Aficionado latente,18-24,Hombre,Abonado,11.0,Pontevedra
+AF-F3C8510AA6,Aficionado latente,25-34,Hombre,No socio,6.0,Barcelona
+AF-00518C1731,Comprador de servicios,45-54,Mujer,Abonado,9.0,A Coruña
+AF-DD73ADE7FD,Aficionado latente,35-44,Mujer,No socio,5.0,Otras
+AF-17D4FD15EC,Aficionado latente,45-54,Hombre,No socio,8.0,Pontevedra
+AF-D9B48CFA7C,Hincha digital intensivo,35-44,Hombre,Socio digital,12.0,A Coruña
+AF-C0BC49E0DD,Aficionado latente,35-44,Hombre,Abonado,13.0,Pontevedra
+AF-58A3704A4C,Hincha digital intensivo,35-44,Hombre,Socio digital,14.0,Madrid
+AF-90013F04C4,Hincha digital intensivo,18-24,Mujer,Socio digital,6.0,Pontevedra
+AF-5E3EAD4383,Consumidor de resultados,45-54,Hombre,Abonado,3.0,Pontevedra
+AF-C43A2C0728,Hincha digital intensivo,55+,Hombre,Socio digital,15.0,A Coruña
+AF-209893DA06,Consumidor de resultados,45-54,Mujer,Socio digital,4.0,Ourense
+AF-7F94C3FD21,Consumidor de resultados,45-54,Mujer,Socio digital,22.0,Lugo
+AF-27842FC71B,Consumidor de resultados,35-44,Hombre,Socio digital,8.0,A Coruña
+AF-DAA504E9E4,Consumidor de resultados,55+,Hombre,No socio,15.0,A Coruña
+AF-5A65CCA561,Aficionado latente,18-24,Mujer,Socio digital,6.0,Madrid
+AF-F7B9C37CE4,Comprador de servicios,35-44,Hombre,Abonado,5.0,A Coruña
+AF-D3DC773EC5,Comprador de servicios,25-34,Hombre,Socio digital,3.0,Lugo
+AF-6858766D03,Consumidor de resultados,45-54,Hombre,Socio digital,8.0,Ourense
+AF-0C4E00E7E1,Consumidor de resultados,55+,Hombre,Abonado,4.0,Pontevedra
+AF-8519E2EC4B,Comprador de servicios,35-44,Hombre,Abonado,9.0,Pontevedra
+AF-F09419F9A4,Consumidor de resultados,45-54,Hombre,Abonado,25.0,A Coruña
+AF-73A51A19A8,Aficionado latente,35-44,Mujer,No socio,2.0,Otras
+AF-9655F1CE81,Comprador de servicios,25-34,Mujer,Abonado,2.0,Ourense
+AF-EEA32A92A8,Hincha digital intensivo,35-44,Hombre,No socio,1.0,A Coruña
+AF-F98E71C778,Hincha digital intensivo,35-44,Hombre,No socio,3.0,A Coruña
+AF-0BB1EECB70,Consumidor de resultados,25-34,Hombre,No socio,4.0,A Coruña
+AF-D28FFBDC95,Comprador de servicios,35-44,Hombre,Abonado,22.0,Barcelona
+AF-5CE06EC95B,Consumidor de resultados,18-24,Hombre,Abonado,6.0,Otras
+AF-4D054E41A1,Comprador de servicios,35-44,Mujer,Abonado,8.0,Pontevedra
+AF-7B67FE5C6E,Consumidor de resultados,18-24,Hombre,Abonado,6.0,Pontevedra
+AF-3F4151907A,Aficionado latente,25-34,Hombre,Socio digital,9.0,Lugo
+AF-B4F7F766FE,Comprador de servicios,45-54,Hombre,No socio,5.0,Asturias
+AF-2672CB72CB,Consumidor de resultados,55+,Hombre,Abonado,11.0,A Coruña
+AF-973F075E1B,Hincha digital intensivo,25-34,Hombre,No socio,7.0,Pontevedra

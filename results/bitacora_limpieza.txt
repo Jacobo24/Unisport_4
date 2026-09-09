@@ -1,0 +1,34 @@
+=== Limpieza de fact_publicaciones ===
+  · Categorías de plataforma normalizadas (0 valores fuera del catálogo tras normalizar)
+  · Eliminados 18 registros duplicados (post_id repetido)
+  · 6 valores de 'likes' negativos recodificados a ausente
+  · 28 ausentes en 'alcance' imputados por la mediana de su grupo (plataforma x tipo de contenido)
+  · 22 ausentes en 'impresiones' imputados por la mediana de su grupo (plataforma x tipo de contenido)
+  · 35 ausentes en 'guardados' imputados por la mediana de su grupo (plataforma x tipo de contenido)
+  · 6 ausentes en 'likes' imputados por la mediana de su grupo (plataforma x tipo de contenido)
+  · 13 publicaciones marcadas como atípicas por RIC (umbral 3xRIC dentro de cada plataforma); no se eliminan
+    - De ellas, 5 son picos de engagement extremo (contenido viral: fichaje, gol decisivo o gesto solidario) y se conservan como información sustantiva, no como error
+  · Publicaciones: 2028 -> 2010 tras depuración (18 registros netos eliminados)
+
+=== Limpieza de fact_app ===
+  · Eliminados 60 registros duplicados exactos
+  · 40 duraciones de sesión negativas (error de registro) recodificadas a ausente
+  · 120 ausentes en 'pantallas_vistas' imputados por la mediana del propio usuario
+  · Registros app: 44060 -> 44000 tras depuración (60 registros netos eliminados)
+
+=== Copia del resto de tablas ===
+  · dim_partido, dim_jugador, dim_aficionado, fact_rendimiento_jugador, fact_menciones_jugador, fact_aficionado_rrss, fact_encuesta y fact_seguidores no presentaban defectos de calidad; se copian sin cambios
+
+--- Estadísticos descriptivos ---
+
+Tabla 1 — Engagement por plataforma:
+
+Tabla 2 — Engagement por tipo de contenido:
+
+Tabla 3 — Descriptivos de uso de la app (por aficionado):
+
+Tabla 4 — Engagement según resultado del partido:
+
+Tabla 5 — Descriptivos y fiabilidad de la encuesta:
+
+Tabla 6 — Resumen de atípicos:
