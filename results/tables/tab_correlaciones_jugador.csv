@@ -1,0 +1,6 @@
+Variable A,Variable B,n,Pearson r,p (Pearson),Spearman rho,p (Spearman)
+menciones,goles,672,0.5291,0.0,0.3266,0.0
+menciones,valoracion,672,0.4717,0.0,0.4352,0.0
+menciones,minutos,672,0.0895,0.0203,0.0551,0.1538
+pct_positivo,valoracion,672,0.4616,0.0,0.4207,0.0
+pct_positivo,goles,672,0.333,0.0,0.286,0.0

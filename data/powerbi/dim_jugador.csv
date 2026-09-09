@@ -1,0 +1,26 @@
+﻿jugador_id,jugador,posicion,dorsal,edad,notoriedad
+J01,M. Ferreiro,Portero,16,26,0.164
+J02,A. Castelo,Portero,20,23,0.632
+J03,J. Rilo,Portero,5,23,0.516
+J04,P. Vilariño,Defensa,22,24,0.934
+J05,L. Andrade,Defensa,14,28,0.637
+J06,D. Seoane,Defensa,10,34,0.361
+J07,R. Cambados,Defensa,17,26,0.584
+J08,N. Bouzas,Defensa,7,20,0.241
+J09,T. Estévez,Defensa,24,21,0.638
+J10,I. Lourido,Defensa,2,28,0.272
+J11,S. Mariñas,Defensa,15,31,0.599
+J12,V. Anllóns,Centrocampista,12,23,0.589
+J13,C. Rebordelo,Centrocampista,11,25,0.618
+J14,F. Loureiro,Centrocampista,3,32,0.05
+J15,G. Muxía,Centrocampista,4,32,0.128
+J16,H. Barreiro,Centrocampista,13,23,0.245
+J17,E. Ortigueira,Centrocampista,19,29,0.47
+J18,K. Sardiña,Centrocampista,1,27,1.0
+J19,O. Fisterra,Centrocampista,21,29,0.54
+J20,B. Corcubión,Delantero,18,24,0.76
+J21,U. Xallas,Delantero,8,32,1.0
+J22,Y. Noia,Delantero,6,23,1.0
+J23,Z. Tambre,Delantero,9,21,1.0
+J24,Q. Verdugo,Delantero,23,31,0.914
+J25,W. Deza,Delantero,25,25,0.687

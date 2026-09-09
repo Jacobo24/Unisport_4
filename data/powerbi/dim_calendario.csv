@@ -1,0 +1,335 @@
+﻿fecha_id,fecha,anio,mes_num,mes,anio_mes,dia_semana_num,dia_semana,semana_iso,trimestre,es_dia_partido,ventana_partido
+20240801,2024-08-01,2024,8,Agosto,2024-08,4,Jueves,31,T3,0,Fuera de ventana
+20240802,2024-08-02,2024,8,Agosto,2024-08,5,Viernes,31,T3,0,Fuera de ventana
+20240803,2024-08-03,2024,8,Agosto,2024-08,6,Sábado,31,T3,0,Fuera de ventana
+20240804,2024-08-04,2024,8,Agosto,2024-08,7,Domingo,31,T3,0,Fuera de ventana
+20240805,2024-08-05,2024,8,Agosto,2024-08,1,Lunes,32,T3,0,Fuera de ventana
+20240806,2024-08-06,2024,8,Agosto,2024-08,2,Martes,32,T3,0,Fuera de ventana
+20240807,2024-08-07,2024,8,Agosto,2024-08,3,Miércoles,32,T3,0,Fuera de ventana
+20240808,2024-08-08,2024,8,Agosto,2024-08,4,Jueves,32,T3,0,Fuera de ventana
+20240809,2024-08-09,2024,8,Agosto,2024-08,5,Viernes,32,T3,0,Fuera de ventana
+20240810,2024-08-10,2024,8,Agosto,2024-08,6,Sábado,32,T3,0,Fuera de ventana
+20240811,2024-08-11,2024,8,Agosto,2024-08,7,Domingo,32,T3,0,Fuera de ventana
+20240812,2024-08-12,2024,8,Agosto,2024-08,1,Lunes,33,T3,0,Fuera de ventana
+20240813,2024-08-13,2024,8,Agosto,2024-08,2,Martes,33,T3,0,Fuera de ventana
+20240814,2024-08-14,2024,8,Agosto,2024-08,3,Miércoles,33,T3,0,Previa (D-3 a D-1)
+20240815,2024-08-15,2024,8,Agosto,2024-08,4,Jueves,33,T3,0,Previa (D-3 a D-1)
+20240816,2024-08-16,2024,8,Agosto,2024-08,5,Viernes,33,T3,0,Previa (D-3 a D-1)
+20240817,2024-08-17,2024,8,Agosto,2024-08,6,Sábado,33,T3,1,Día de partido
+20240818,2024-08-18,2024,8,Agosto,2024-08,7,Domingo,33,T3,0,Post (D+1 a D+3)
+20240819,2024-08-19,2024,8,Agosto,2024-08,1,Lunes,34,T3,0,Post (D+1 a D+3)
+20240820,2024-08-20,2024,8,Agosto,2024-08,2,Martes,34,T3,0,Post (D+1 a D+3)
+20240821,2024-08-21,2024,8,Agosto,2024-08,3,Miércoles,34,T3,0,Previa (D-3 a D-1)
+20240822,2024-08-22,2024,8,Agosto,2024-08,4,Jueves,34,T3,0,Previa (D-3 a D-1)
+20240823,2024-08-23,2024,8,Agosto,2024-08,5,Viernes,34,T3,0,Previa (D-3 a D-1)
+20240824,2024-08-24,2024,8,Agosto,2024-08,6,Sábado,34,T3,1,Día de partido
+20240825,2024-08-25,2024,8,Agosto,2024-08,7,Domingo,34,T3,0,Post (D+1 a D+3)
+20240826,2024-08-26,2024,8,Agosto,2024-08,1,Lunes,35,T3,0,Post (D+1 a D+3)
+20240827,2024-08-27,2024,8,Agosto,2024-08,2,Martes,35,T3,0,Post (D+1 a D+3)
+20240828,2024-08-28,2024,8,Agosto,2024-08,3,Miércoles,35,T3,0,Previa (D-3 a D-1)
+20240829,2024-08-29,2024,8,Agosto,2024-08,4,Jueves,35,T3,0,Previa (D-3 a D-1)
+20240830,2024-08-30,2024,8,Agosto,2024-08,5,Viernes,35,T3,0,Previa (D-3 a D-1)
+20240831,2024-08-31,2024,8,Agosto,2024-08,6,Sábado,35,T3,1,Día de partido
+20240901,2024-09-01,2024,9,Septiembre,2024-09,7,Domingo,35,T3,0,Post (D+1 a D+3)
+20240902,2024-09-02,2024,9,Septiembre,2024-09,1,Lunes,36,T3,0,Post (D+1 a D+3)
+20240903,2024-09-03,2024,9,Septiembre,2024-09,2,Martes,36,T3,0,Post (D+1 a D+3)
+20240904,2024-09-04,2024,9,Septiembre,2024-09,3,Miércoles,36,T3,0,Previa (D-3 a D-1)
+20240905,2024-09-05,2024,9,Septiembre,2024-09,4,Jueves,36,T3,0,Previa (D-3 a D-1)
+20240906,2024-09-06,2024,9,Septiembre,2024-09,5,Viernes,36,T3,0,Previa (D-3 a D-1)
+20240907,2024-09-07,2024,9,Septiembre,2024-09,6,Sábado,36,T3,1,Día de partido
+20240908,2024-09-08,2024,9,Septiembre,2024-09,7,Domingo,36,T3,0,Post (D+1 a D+3)
+20240909,2024-09-09,2024,9,Septiembre,2024-09,1,Lunes,37,T3,0,Post (D+1 a D+3)
+20240910,2024-09-10,2024,9,Septiembre,2024-09,2,Martes,37,T3,0,Post (D+1 a D+3)
+20240911,2024-09-11,2024,9,Septiembre,2024-09,3,Miércoles,37,T3,0,Previa (D-3 a D-1)
+20240912,2024-09-12,2024,9,Septiembre,2024-09,4,Jueves,37,T3,0,Previa (D-3 a D-1)
+20240913,2024-09-13,2024,9,Septiembre,2024-09,5,Viernes,37,T3,0,Previa (D-3 a D-1)
+20240914,2024-09-14,2024,9,Septiembre,2024-09,6,Sábado,37,T3,1,Día de partido
+20240915,2024-09-15,2024,9,Septiembre,2024-09,7,Domingo,37,T3,0,Post (D+1 a D+3)
+20240916,2024-09-16,2024,9,Septiembre,2024-09,1,Lunes,38,T3,0,Post (D+1 a D+3)
+20240917,2024-09-17,2024,9,Septiembre,2024-09,2,Martes,38,T3,0,Post (D+1 a D+3)
+20240918,2024-09-18,2024,9,Septiembre,2024-09,3,Miércoles,38,T3,0,Fuera de ventana
+20240919,2024-09-19,2024,9,Septiembre,2024-09,4,Jueves,38,T3,0,Fuera de ventana
+20240920,2024-09-20,2024,9,Septiembre,2024-09,5,Viernes,38,T3,0,Fuera de ventana
+20240921,2024-09-21,2024,9,Septiembre,2024-09,6,Sábado,38,T3,0,Fuera de ventana
+20240922,2024-09-22,2024,9,Septiembre,2024-09,7,Domingo,38,T3,0,Fuera de ventana
+20240923,2024-09-23,2024,9,Septiembre,2024-09,1,Lunes,39,T3,0,Fuera de ventana
+20240924,2024-09-24,2024,9,Septiembre,2024-09,2,Martes,39,T3,0,Fuera de ventana
+20240925,2024-09-25,2024,9,Septiembre,2024-09,3,Miércoles,39,T3,0,Previa (D-3 a D-1)
+20240926,2024-09-26,2024,9,Septiembre,2024-09,4,Jueves,39,T3,0,Previa (D-3 a D-1)
+20240927,2024-09-27,2024,9,Septiembre,2024-09,5,Viernes,39,T3,0,Previa (D-3 a D-1)
+20240928,2024-09-28,2024,9,Septiembre,2024-09,6,Sábado,39,T3,1,Día de partido
+20240929,2024-09-29,2024,9,Septiembre,2024-09,7,Domingo,39,T3,0,Post (D+1 a D+3)
+20240930,2024-09-30,2024,9,Septiembre,2024-09,1,Lunes,40,T3,0,Post (D+1 a D+3)
+20241001,2024-10-01,2024,10,Octubre,2024-10,2,Martes,40,T4,0,Post (D+1 a D+3)
+20241002,2024-10-02,2024,10,Octubre,2024-10,3,Miércoles,40,T4,0,Previa (D-3 a D-1)
+20241003,2024-10-03,2024,10,Octubre,2024-10,4,Jueves,40,T4,0,Previa (D-3 a D-1)
+20241004,2024-10-04,2024,10,Octubre,2024-10,5,Viernes,40,T4,0,Previa (D-3 a D-1)
+20241005,2024-10-05,2024,10,Octubre,2024-10,6,Sábado,40,T4,1,Día de partido
+20241006,2024-10-06,2024,10,Octubre,2024-10,7,Domingo,40,T4,0,Post (D+1 a D+3)
+20241007,2024-10-07,2024,10,Octubre,2024-10,1,Lunes,41,T4,0,Post (D+1 a D+3)
+20241008,2024-10-08,2024,10,Octubre,2024-10,2,Martes,41,T4,0,Post (D+1 a D+3)
+20241009,2024-10-09,2024,10,Octubre,2024-10,3,Miércoles,41,T4,0,Previa (D-3 a D-1)
+20241010,2024-10-10,2024,10,Octubre,2024-10,4,Jueves,41,T4,0,Previa (D-3 a D-1)
+20241011,2024-10-11,2024,10,Octubre,2024-10,5,Viernes,41,T4,0,Previa (D-3 a D-1)
+20241012,2024-10-12,2024,10,Octubre,2024-10,6,Sábado,41,T4,1,Día de partido
+20241013,2024-10-13,2024,10,Octubre,2024-10,7,Domingo,41,T4,0,Post (D+1 a D+3)
+20241014,2024-10-14,2024,10,Octubre,2024-10,1,Lunes,42,T4,0,Post (D+1 a D+3)
+20241015,2024-10-15,2024,10,Octubre,2024-10,2,Martes,42,T4,0,Post (D+1 a D+3)
+20241016,2024-10-16,2024,10,Octubre,2024-10,3,Miércoles,42,T4,0,Previa (D-3 a D-1)
+20241017,2024-10-17,2024,10,Octubre,2024-10,4,Jueves,42,T4,0,Previa (D-3 a D-1)
+20241018,2024-10-18,2024,10,Octubre,2024-10,5,Viernes,42,T4,0,Previa (D-3 a D-1)
+20241019,2024-10-19,2024,10,Octubre,2024-10,6,Sábado,42,T4,1,Día de partido
+20241020,2024-10-20,2024,10,Octubre,2024-10,7,Domingo,42,T4,0,Post (D+1 a D+3)
+20241021,2024-10-21,2024,10,Octubre,2024-10,1,Lunes,43,T4,0,Post (D+1 a D+3)
+20241022,2024-10-22,2024,10,Octubre,2024-10,2,Martes,43,T4,0,Post (D+1 a D+3)
+20241023,2024-10-23,2024,10,Octubre,2024-10,3,Miércoles,43,T4,0,Previa (D-3 a D-1)
+20241024,2024-10-24,2024,10,Octubre,2024-10,4,Jueves,43,T4,0,Previa (D-3 a D-1)
+20241025,2024-10-25,2024,10,Octubre,2024-10,5,Viernes,43,T4,0,Previa (D-3 a D-1)
+20241026,2024-10-26,2024,10,Octubre,2024-10,6,Sábado,43,T4,1,Día de partido
+20241027,2024-10-27,2024,10,Octubre,2024-10,7,Domingo,43,T4,0,Post (D+1 a D+3)
+20241028,2024-10-28,2024,10,Octubre,2024-10,1,Lunes,44,T4,0,Post (D+1 a D+3)
+20241029,2024-10-29,2024,10,Octubre,2024-10,2,Martes,44,T4,0,Post (D+1 a D+3)
+20241030,2024-10-30,2024,10,Octubre,2024-10,3,Miércoles,44,T4,0,Fuera de ventana
+20241031,2024-10-31,2024,10,Octubre,2024-10,4,Jueves,44,T4,0,Fuera de ventana
+20241101,2024-11-01,2024,11,Noviembre,2024-11,5,Viernes,44,T4,0,Fuera de ventana
+20241102,2024-11-02,2024,11,Noviembre,2024-11,6,Sábado,44,T4,0,Fuera de ventana
+20241103,2024-11-03,2024,11,Noviembre,2024-11,7,Domingo,44,T4,0,Fuera de ventana
+20241104,2024-11-04,2024,11,Noviembre,2024-11,1,Lunes,45,T4,0,Fuera de ventana
+20241105,2024-11-05,2024,11,Noviembre,2024-11,2,Martes,45,T4,0,Fuera de ventana
+20241106,2024-11-06,2024,11,Noviembre,2024-11,3,Miércoles,45,T4,0,Previa (D-3 a D-1)
+20241107,2024-11-07,2024,11,Noviembre,2024-11,4,Jueves,45,T4,0,Previa (D-3 a D-1)
+20241108,2024-11-08,2024,11,Noviembre,2024-11,5,Viernes,45,T4,0,Previa (D-3 a D-1)
+20241109,2024-11-09,2024,11,Noviembre,2024-11,6,Sábado,45,T4,1,Día de partido
+20241110,2024-11-10,2024,11,Noviembre,2024-11,7,Domingo,45,T4,0,Post (D+1 a D+3)
+20241111,2024-11-11,2024,11,Noviembre,2024-11,1,Lunes,46,T4,0,Post (D+1 a D+3)
+20241112,2024-11-12,2024,11,Noviembre,2024-11,2,Martes,46,T4,0,Post (D+1 a D+3)
+20241113,2024-11-13,2024,11,Noviembre,2024-11,3,Miércoles,46,T4,0,Previa (D-3 a D-1)
+20241114,2024-11-14,2024,11,Noviembre,2024-11,4,Jueves,46,T4,0,Previa (D-3 a D-1)
+20241115,2024-11-15,2024,11,Noviembre,2024-11,5,Viernes,46,T4,0,Previa (D-3 a D-1)
+20241116,2024-11-16,2024,11,Noviembre,2024-11,6,Sábado,46,T4,1,Día de partido
+20241117,2024-11-17,2024,11,Noviembre,2024-11,7,Domingo,46,T4,0,Post (D+1 a D+3)
+20241118,2024-11-18,2024,11,Noviembre,2024-11,1,Lunes,47,T4,0,Post (D+1 a D+3)
+20241119,2024-11-19,2024,11,Noviembre,2024-11,2,Martes,47,T4,0,Post (D+1 a D+3)
+20241120,2024-11-20,2024,11,Noviembre,2024-11,3,Miércoles,47,T4,0,Previa (D-3 a D-1)
+20241121,2024-11-21,2024,11,Noviembre,2024-11,4,Jueves,47,T4,0,Previa (D-3 a D-1)
+20241122,2024-11-22,2024,11,Noviembre,2024-11,5,Viernes,47,T4,0,Previa (D-3 a D-1)
+20241123,2024-11-23,2024,11,Noviembre,2024-11,6,Sábado,47,T4,1,Día de partido
+20241124,2024-11-24,2024,11,Noviembre,2024-11,7,Domingo,47,T4,0,Post (D+1 a D+3)
+20241125,2024-11-25,2024,11,Noviembre,2024-11,1,Lunes,48,T4,0,Post (D+1 a D+3)
+20241126,2024-11-26,2024,11,Noviembre,2024-11,2,Martes,48,T4,0,Post (D+1 a D+3)
+20241127,2024-11-27,2024,11,Noviembre,2024-11,3,Miércoles,48,T4,0,Previa (D-3 a D-1)
+20241128,2024-11-28,2024,11,Noviembre,2024-11,4,Jueves,48,T4,0,Previa (D-3 a D-1)
+20241129,2024-11-29,2024,11,Noviembre,2024-11,5,Viernes,48,T4,0,Previa (D-3 a D-1)
+20241130,2024-11-30,2024,11,Noviembre,2024-11,6,Sábado,48,T4,1,Día de partido
+20241201,2024-12-01,2024,12,Diciembre,2024-12,7,Domingo,48,T4,0,Post (D+1 a D+3)
+20241202,2024-12-02,2024,12,Diciembre,2024-12,1,Lunes,49,T4,0,Post (D+1 a D+3)
+20241203,2024-12-03,2024,12,Diciembre,2024-12,2,Martes,49,T4,0,Post (D+1 a D+3)
+20241204,2024-12-04,2024,12,Diciembre,2024-12,3,Miércoles,49,T4,0,Previa (D-3 a D-1)
+20241205,2024-12-05,2024,12,Diciembre,2024-12,4,Jueves,49,T4,0,Previa (D-3 a D-1)
+20241206,2024-12-06,2024,12,Diciembre,2024-12,5,Viernes,49,T4,0,Previa (D-3 a D-1)
+20241207,2024-12-07,2024,12,Diciembre,2024-12,6,Sábado,49,T4,1,Día de partido
+20241208,2024-12-08,2024,12,Diciembre,2024-12,7,Domingo,49,T4,0,Post (D+1 a D+3)
+20241209,2024-12-09,2024,12,Diciembre,2024-12,1,Lunes,50,T4,0,Post (D+1 a D+3)
+20241210,2024-12-10,2024,12,Diciembre,2024-12,2,Martes,50,T4,0,Post (D+1 a D+3)
+20241211,2024-12-11,2024,12,Diciembre,2024-12,3,Miércoles,50,T4,0,Fuera de ventana
+20241212,2024-12-12,2024,12,Diciembre,2024-12,4,Jueves,50,T4,0,Fuera de ventana
+20241213,2024-12-13,2024,12,Diciembre,2024-12,5,Viernes,50,T4,0,Fuera de ventana
+20241214,2024-12-14,2024,12,Diciembre,2024-12,6,Sábado,50,T4,0,Fuera de ventana
+20241215,2024-12-15,2024,12,Diciembre,2024-12,7,Domingo,50,T4,0,Fuera de ventana
+20241216,2024-12-16,2024,12,Diciembre,2024-12,1,Lunes,51,T4,0,Fuera de ventana
+20241217,2024-12-17,2024,12,Diciembre,2024-12,2,Martes,51,T4,0,Fuera de ventana
+20241218,2024-12-18,2024,12,Diciembre,2024-12,3,Miércoles,51,T4,0,Previa (D-3 a D-1)
+20241219,2024-12-19,2024,12,Diciembre,2024-12,4,Jueves,51,T4,0,Previa (D-3 a D-1)
+20241220,2024-12-20,2024,12,Diciembre,2024-12,5,Viernes,51,T4,0,Previa (D-3 a D-1)
+20241221,2024-12-21,2024,12,Diciembre,2024-12,6,Sábado,51,T4,1,Día de partido
+20241222,2024-12-22,2024,12,Diciembre,2024-12,7,Domingo,51,T4,0,Post (D+1 a D+3)
+20241223,2024-12-23,2024,12,Diciembre,2024-12,1,Lunes,52,T4,0,Post (D+1 a D+3)
+20241224,2024-12-24,2024,12,Diciembre,2024-12,2,Martes,52,T4,0,Post (D+1 a D+3)
+20241225,2024-12-25,2024,12,Diciembre,2024-12,3,Miércoles,52,T4,0,Previa (D-3 a D-1)
+20241226,2024-12-26,2024,12,Diciembre,2024-12,4,Jueves,52,T4,0,Previa (D-3 a D-1)
+20241227,2024-12-27,2024,12,Diciembre,2024-12,5,Viernes,52,T4,0,Previa (D-3 a D-1)
+20241228,2024-12-28,2024,12,Diciembre,2024-12,6,Sábado,52,T4,1,Día de partido
+20241229,2024-12-29,2024,12,Diciembre,2024-12,7,Domingo,52,T4,0,Post (D+1 a D+3)
+20241230,2024-12-30,2024,12,Diciembre,2024-12,1,Lunes,1,T4,0,Post (D+1 a D+3)
+20241231,2024-12-31,2024,12,Diciembre,2024-12,2,Martes,1,T4,0,Post (D+1 a D+3)
+20250101,2025-01-01,2025,1,Enero,2025-01,3,Miércoles,1,T1,0,Previa (D-3 a D-1)
+20250102,2025-01-02,2025,1,Enero,2025-01,4,Jueves,1,T1,0,Previa (D-3 a D-1)
+20250103,2025-01-03,2025,1,Enero,2025-01,5,Viernes,1,T1,0,Previa (D-3 a D-1)
+20250104,2025-01-04,2025,1,Enero,2025-01,6,Sábado,1,T1,1,Día de partido
+20250105,2025-01-05,2025,1,Enero,2025-01,7,Domingo,1,T1,0,Post (D+1 a D+3)
+20250106,2025-01-06,2025,1,Enero,2025-01,1,Lunes,2,T1,0,Post (D+1 a D+3)
+20250107,2025-01-07,2025,1,Enero,2025-01,2,Martes,2,T1,0,Post (D+1 a D+3)
+20250108,2025-01-08,2025,1,Enero,2025-01,3,Miércoles,2,T1,0,Previa (D-3 a D-1)
+20250109,2025-01-09,2025,1,Enero,2025-01,4,Jueves,2,T1,0,Previa (D-3 a D-1)
+20250110,2025-01-10,2025,1,Enero,2025-01,5,Viernes,2,T1,0,Previa (D-3 a D-1)
+20250111,2025-01-11,2025,1,Enero,2025-01,6,Sábado,2,T1,1,Día de partido
+20250112,2025-01-12,2025,1,Enero,2025-01,7,Domingo,2,T1,0,Post (D+1 a D+3)
+20250113,2025-01-13,2025,1,Enero,2025-01,1,Lunes,3,T1,0,Post (D+1 a D+3)
+20250114,2025-01-14,2025,1,Enero,2025-01,2,Martes,3,T1,0,Post (D+1 a D+3)
+20250115,2025-01-15,2025,1,Enero,2025-01,3,Miércoles,3,T1,0,Previa (D-3 a D-1)
+20250116,2025-01-16,2025,1,Enero,2025-01,4,Jueves,3,T1,0,Previa (D-3 a D-1)
+20250117,2025-01-17,2025,1,Enero,2025-01,5,Viernes,3,T1,0,Previa (D-3 a D-1)
+20250118,2025-01-18,2025,1,Enero,2025-01,6,Sábado,3,T1,1,Día de partido
+20250119,2025-01-19,2025,1,Enero,2025-01,7,Domingo,3,T1,0,Post (D+1 a D+3)
+20250120,2025-01-20,2025,1,Enero,2025-01,1,Lunes,4,T1,0,Post (D+1 a D+3)
+20250121,2025-01-21,2025,1,Enero,2025-01,2,Martes,4,T1,0,Post (D+1 a D+3)
+20250122,2025-01-22,2025,1,Enero,2025-01,3,Miércoles,4,T1,0,Previa (D-3 a D-1)
+20250123,2025-01-23,2025,1,Enero,2025-01,4,Jueves,4,T1,0,Previa (D-3 a D-1)
+20250124,2025-01-24,2025,1,Enero,2025-01,5,Viernes,4,T1,0,Previa (D-3 a D-1)
+20250125,2025-01-25,2025,1,Enero,2025-01,6,Sábado,4,T1,1,Día de partido
+20250126,2025-01-26,2025,1,Enero,2025-01,7,Domingo,4,T1,0,Post (D+1 a D+3)
+20250127,2025-01-27,2025,1,Enero,2025-01,1,Lunes,5,T1,0,Post (D+1 a D+3)
+20250128,2025-01-28,2025,1,Enero,2025-01,2,Martes,5,T1,0,Post (D+1 a D+3)
+20250129,2025-01-29,2025,1,Enero,2025-01,3,Miércoles,5,T1,0,Previa (D-3 a D-1)
+20250130,2025-01-30,2025,1,Enero,2025-01,4,Jueves,5,T1,0,Previa (D-3 a D-1)
+20250131,2025-01-31,2025,1,Enero,2025-01,5,Viernes,5,T1,0,Previa (D-3 a D-1)
+20250201,2025-02-01,2025,2,Febrero,2025-02,6,Sábado,5,T1,1,Día de partido
+20250202,2025-02-02,2025,2,Febrero,2025-02,7,Domingo,5,T1,0,Post (D+1 a D+3)
+20250203,2025-02-03,2025,2,Febrero,2025-02,1,Lunes,6,T1,0,Post (D+1 a D+3)
+20250204,2025-02-04,2025,2,Febrero,2025-02,2,Martes,6,T1,0,Post (D+1 a D+3)
+20250205,2025-02-05,2025,2,Febrero,2025-02,3,Miércoles,6,T1,0,Fuera de ventana
+20250206,2025-02-06,2025,2,Febrero,2025-02,4,Jueves,6,T1,0,Fuera de ventana
+20250207,2025-02-07,2025,2,Febrero,2025-02,5,Viernes,6,T1,0,Fuera de ventana
+20250208,2025-02-08,2025,2,Febrero,2025-02,6,Sábado,6,T1,0,Fuera de ventana
+20250209,2025-02-09,2025,2,Febrero,2025-02,7,Domingo,6,T1,0,Fuera de ventana
+20250210,2025-02-10,2025,2,Febrero,2025-02,1,Lunes,7,T1,0,Fuera de ventana
+20250211,2025-02-11,2025,2,Febrero,2025-02,2,Martes,7,T1,0,Fuera de ventana
+20250212,2025-02-12,2025,2,Febrero,2025-02,3,Miércoles,7,T1,0,Previa (D-3 a D-1)
+20250213,2025-02-13,2025,2,Febrero,2025-02,4,Jueves,7,T1,0,Previa (D-3 a D-1)
+20250214,2025-02-14,2025,2,Febrero,2025-02,5,Viernes,7,T1,0,Previa (D-3 a D-1)
+20250215,2025-02-15,2025,2,Febrero,2025-02,6,Sábado,7,T1,1,Día de partido
+20250216,2025-02-16,2025,2,Febrero,2025-02,7,Domingo,7,T1,0,Post (D+1 a D+3)
+20250217,2025-02-17,2025,2,Febrero,2025-02,1,Lunes,8,T1,0,Post (D+1 a D+3)
+20250218,2025-02-18,2025,2,Febrero,2025-02,2,Martes,8,T1,0,Post (D+1 a D+3)
+20250219,2025-02-19,2025,2,Febrero,2025-02,3,Miércoles,8,T1,0,Previa (D-3 a D-1)
+20250220,2025-02-20,2025,2,Febrero,2025-02,4,Jueves,8,T1,0,Previa (D-3 a D-1)
+20250221,2025-02-21,2025,2,Febrero,2025-02,5,Viernes,8,T1,0,Previa (D-3 a D-1)
+20250222,2025-02-22,2025,2,Febrero,2025-02,6,Sábado,8,T1,1,Día de partido
+20250223,2025-02-23,2025,2,Febrero,2025-02,7,Domingo,8,T1,0,Post (D+1 a D+3)
+20250224,2025-02-24,2025,2,Febrero,2025-02,1,Lunes,9,T1,0,Post (D+1 a D+3)
+20250225,2025-02-25,2025,2,Febrero,2025-02,2,Martes,9,T1,0,Post (D+1 a D+3)
+20250226,2025-02-26,2025,2,Febrero,2025-02,3,Miércoles,9,T1,0,Previa (D-3 a D-1)
+20250227,2025-02-27,2025,2,Febrero,2025-02,4,Jueves,9,T1,0,Previa (D-3 a D-1)
+20250228,2025-02-28,2025,2,Febrero,2025-02,5,Viernes,9,T1,0,Previa (D-3 a D-1)
+20250301,2025-03-01,2025,3,Marzo,2025-03,6,Sábado,9,T1,1,Día de partido
+20250302,2025-03-02,2025,3,Marzo,2025-03,7,Domingo,9,T1,0,Post (D+1 a D+3)
+20250303,2025-03-03,2025,3,Marzo,2025-03,1,Lunes,10,T1,0,Post (D+1 a D+3)
+20250304,2025-03-04,2025,3,Marzo,2025-03,2,Martes,10,T1,0,Post (D+1 a D+3)
+20250305,2025-03-05,2025,3,Marzo,2025-03,3,Miércoles,10,T1,0,Previa (D-3 a D-1)
+20250306,2025-03-06,2025,3,Marzo,2025-03,4,Jueves,10,T1,0,Previa (D-3 a D-1)
+20250307,2025-03-07,2025,3,Marzo,2025-03,5,Viernes,10,T1,0,Previa (D-3 a D-1)
+20250308,2025-03-08,2025,3,Marzo,2025-03,6,Sábado,10,T1,1,Día de partido
+20250309,2025-03-09,2025,3,Marzo,2025-03,7,Domingo,10,T1,0,Post (D+1 a D+3)
+20250310,2025-03-10,2025,3,Marzo,2025-03,1,Lunes,11,T1,0,Post (D+1 a D+3)
+20250311,2025-03-11,2025,3,Marzo,2025-03,2,Martes,11,T1,0,Post (D+1 a D+3)
+20250312,2025-03-12,2025,3,Marzo,2025-03,3,Miércoles,11,T1,0,Previa (D-3 a D-1)
+20250313,2025-03-13,2025,3,Marzo,2025-03,4,Jueves,11,T1,0,Previa (D-3 a D-1)
+20250314,2025-03-14,2025,3,Marzo,2025-03,5,Viernes,11,T1,0,Previa (D-3 a D-1)
+20250315,2025-03-15,2025,3,Marzo,2025-03,6,Sábado,11,T1,1,Día de partido
+20250316,2025-03-16,2025,3,Marzo,2025-03,7,Domingo,11,T1,0,Post (D+1 a D+3)
+20250317,2025-03-17,2025,3,Marzo,2025-03,1,Lunes,12,T1,0,Post (D+1 a D+3)
+20250318,2025-03-18,2025,3,Marzo,2025-03,2,Martes,12,T1,0,Post (D+1 a D+3)
+20250319,2025-03-19,2025,3,Marzo,2025-03,3,Miércoles,12,T1,0,Previa (D-3 a D-1)
+20250320,2025-03-20,2025,3,Marzo,2025-03,4,Jueves,12,T1,0,Previa (D-3 a D-1)
+20250321,2025-03-21,2025,3,Marzo,2025-03,5,Viernes,12,T1,0,Previa (D-3 a D-1)
+20250322,2025-03-22,2025,3,Marzo,2025-03,6,Sábado,12,T1,1,Día de partido
+20250323,2025-03-23,2025,3,Marzo,2025-03,7,Domingo,12,T1,0,Post (D+1 a D+3)
+20250324,2025-03-24,2025,3,Marzo,2025-03,1,Lunes,13,T1,0,Post (D+1 a D+3)
+20250325,2025-03-25,2025,3,Marzo,2025-03,2,Martes,13,T1,0,Post (D+1 a D+3)
+20250326,2025-03-26,2025,3,Marzo,2025-03,3,Miércoles,13,T1,0,Previa (D-3 a D-1)
+20250327,2025-03-27,2025,3,Marzo,2025-03,4,Jueves,13,T1,0,Previa (D-3 a D-1)
+20250328,2025-03-28,2025,3,Marzo,2025-03,5,Viernes,13,T1,0,Previa (D-3 a D-1)
+20250329,2025-03-29,2025,3,Marzo,2025-03,6,Sábado,13,T1,1,Día de partido
+20250330,2025-03-30,2025,3,Marzo,2025-03,7,Domingo,13,T1,0,Post (D+1 a D+3)
+20250331,2025-03-31,2025,3,Marzo,2025-03,1,Lunes,14,T1,0,Post (D+1 a D+3)
+20250401,2025-04-01,2025,4,Abril,2025-04,2,Martes,14,T2,0,Post (D+1 a D+3)
+20250402,2025-04-02,2025,4,Abril,2025-04,3,Miércoles,14,T2,0,Previa (D-3 a D-1)
+20250403,2025-04-03,2025,4,Abril,2025-04,4,Jueves,14,T2,0,Previa (D-3 a D-1)
+20250404,2025-04-04,2025,4,Abril,2025-04,5,Viernes,14,T2,0,Previa (D-3 a D-1)
+20250405,2025-04-05,2025,4,Abril,2025-04,6,Sábado,14,T2,1,Día de partido
+20250406,2025-04-06,2025,4,Abril,2025-04,7,Domingo,14,T2,0,Post (D+1 a D+3)
+20250407,2025-04-07,2025,4,Abril,2025-04,1,Lunes,15,T2,0,Post (D+1 a D+3)
+20250408,2025-04-08,2025,4,Abril,2025-04,2,Martes,15,T2,0,Post (D+1 a D+3)
+20250409,2025-04-09,2025,4,Abril,2025-04,3,Miércoles,15,T2,0,Fuera de ventana
+20250410,2025-04-10,2025,4,Abril,2025-04,4,Jueves,15,T2,0,Fuera de ventana
+20250411,2025-04-11,2025,4,Abril,2025-04,5,Viernes,15,T2,0,Fuera de ventana
+20250412,2025-04-12,2025,4,Abril,2025-04,6,Sábado,15,T2,0,Fuera de ventana
+20250413,2025-04-13,2025,4,Abril,2025-04,7,Domingo,15,T2,0,Fuera de ventana
+20250414,2025-04-14,2025,4,Abril,2025-04,1,Lunes,16,T2,0,Fuera de ventana
+20250415,2025-04-15,2025,4,Abril,2025-04,2,Martes,16,T2,0,Fuera de ventana
+20250416,2025-04-16,2025,4,Abril,2025-04,3,Miércoles,16,T2,0,Previa (D-3 a D-1)
+20250417,2025-04-17,2025,4,Abril,2025-04,4,Jueves,16,T2,0,Previa (D-3 a D-1)
+20250418,2025-04-18,2025,4,Abril,2025-04,5,Viernes,16,T2,0,Previa (D-3 a D-1)
+20250419,2025-04-19,2025,4,Abril,2025-04,6,Sábado,16,T2,1,Día de partido
+20250420,2025-04-20,2025,4,Abril,2025-04,7,Domingo,16,T2,0,Post (D+1 a D+3)
+20250421,2025-04-21,2025,4,Abril,2025-04,1,Lunes,17,T2,0,Post (D+1 a D+3)
+20250422,2025-04-22,2025,4,Abril,2025-04,2,Martes,17,T2,0,Post (D+1 a D+3)
+20250423,2025-04-23,2025,4,Abril,2025-04,3,Miércoles,17,T2,0,Previa (D-3 a D-1)
+20250424,2025-04-24,2025,4,Abril,2025-04,4,Jueves,17,T2,0,Previa (D-3 a D-1)
+20250425,2025-04-25,2025,4,Abril,2025-04,5,Viernes,17,T2,0,Previa (D-3 a D-1)
+20250426,2025-04-26,2025,4,Abril,2025-04,6,Sábado,17,T2,1,Día de partido
+20250427,2025-04-27,2025,4,Abril,2025-04,7,Domingo,17,T2,0,Post (D+1 a D+3)
+20250428,2025-04-28,2025,4,Abril,2025-04,1,Lunes,18,T2,0,Post (D+1 a D+3)
+20250429,2025-04-29,2025,4,Abril,2025-04,2,Martes,18,T2,0,Post (D+1 a D+3)
+20250430,2025-04-30,2025,4,Abril,2025-04,3,Miércoles,18,T2,0,Previa (D-3 a D-1)
+20250501,2025-05-01,2025,5,Mayo,2025-05,4,Jueves,18,T2,0,Previa (D-3 a D-1)
+20250502,2025-05-02,2025,5,Mayo,2025-05,5,Viernes,18,T2,0,Previa (D-3 a D-1)
+20250503,2025-05-03,2025,5,Mayo,2025-05,6,Sábado,18,T2,1,Día de partido
+20250504,2025-05-04,2025,5,Mayo,2025-05,7,Domingo,18,T2,0,Post (D+1 a D+3)
+20250505,2025-05-05,2025,5,Mayo,2025-05,1,Lunes,19,T2,0,Post (D+1 a D+3)
+20250506,2025-05-06,2025,5,Mayo,2025-05,2,Martes,19,T2,0,Post (D+1 a D+3)
+20250507,2025-05-07,2025,5,Mayo,2025-05,3,Miércoles,19,T2,0,Previa (D-3 a D-1)
+20250508,2025-05-08,2025,5,Mayo,2025-05,4,Jueves,19,T2,0,Previa (D-3 a D-1)
+20250509,2025-05-09,2025,5,Mayo,2025-05,5,Viernes,19,T2,0,Previa (D-3 a D-1)
+20250510,2025-05-10,2025,5,Mayo,2025-05,6,Sábado,19,T2,1,Día de partido
+20250511,2025-05-11,2025,5,Mayo,2025-05,7,Domingo,19,T2,0,Post (D+1 a D+3)
+20250512,2025-05-12,2025,5,Mayo,2025-05,1,Lunes,20,T2,0,Post (D+1 a D+3)
+20250513,2025-05-13,2025,5,Mayo,2025-05,2,Martes,20,T2,0,Post (D+1 a D+3)
+20250514,2025-05-14,2025,5,Mayo,2025-05,3,Miércoles,20,T2,0,Previa (D-3 a D-1)
+20250515,2025-05-15,2025,5,Mayo,2025-05,4,Jueves,20,T2,0,Previa (D-3 a D-1)
+20250516,2025-05-16,2025,5,Mayo,2025-05,5,Viernes,20,T2,0,Previa (D-3 a D-1)
+20250517,2025-05-17,2025,5,Mayo,2025-05,6,Sábado,20,T2,1,Día de partido
+20250518,2025-05-18,2025,5,Mayo,2025-05,7,Domingo,20,T2,0,Post (D+1 a D+3)
+20250519,2025-05-19,2025,5,Mayo,2025-05,1,Lunes,21,T2,0,Post (D+1 a D+3)
+20250520,2025-05-20,2025,5,Mayo,2025-05,2,Martes,21,T2,0,Post (D+1 a D+3)
+20250521,2025-05-21,2025,5,Mayo,2025-05,3,Miércoles,21,T2,0,Previa (D-3 a D-1)
+20250522,2025-05-22,2025,5,Mayo,2025-05,4,Jueves,21,T2,0,Previa (D-3 a D-1)
+20250523,2025-05-23,2025,5,Mayo,2025-05,5,Viernes,21,T2,0,Previa (D-3 a D-1)
+20250524,2025-05-24,2025,5,Mayo,2025-05,6,Sábado,21,T2,1,Día de partido
+20250525,2025-05-25,2025,5,Mayo,2025-05,7,Domingo,21,T2,0,Post (D+1 a D+3)
+20250526,2025-05-26,2025,5,Mayo,2025-05,1,Lunes,22,T2,0,Post (D+1 a D+3)
+20250527,2025-05-27,2025,5,Mayo,2025-05,2,Martes,22,T2,0,Post (D+1 a D+3)
+20250528,2025-05-28,2025,5,Mayo,2025-05,3,Miércoles,22,T2,0,Previa (D-3 a D-1)
+20250529,2025-05-29,2025,5,Mayo,2025-05,4,Jueves,22,T2,0,Previa (D-3 a D-1)
+20250530,2025-05-30,2025,5,Mayo,2025-05,5,Viernes,22,T2,0,Previa (D-3 a D-1)
+20250531,2025-05-31,2025,5,Mayo,2025-05,6,Sábado,22,T2,1,Día de partido
+20250601,2025-06-01,2025,6,Junio,2025-06,7,Domingo,22,T2,0,Post (D+1 a D+3)
+20250602,2025-06-02,2025,6,Junio,2025-06,1,Lunes,23,T2,0,Post (D+1 a D+3)
+20250603,2025-06-03,2025,6,Junio,2025-06,2,Martes,23,T2,0,Post (D+1 a D+3)
+20250604,2025-06-04,2025,6,Junio,2025-06,3,Miércoles,23,T2,0,Previa (D-3 a D-1)
+20250605,2025-06-05,2025,6,Junio,2025-06,4,Jueves,23,T2,0,Previa (D-3 a D-1)
+20250606,2025-06-06,2025,6,Junio,2025-06,5,Viernes,23,T2,0,Previa (D-3 a D-1)
+20250607,2025-06-07,2025,6,Junio,2025-06,6,Sábado,23,T2,1,Día de partido
+20250608,2025-06-08,2025,6,Junio,2025-06,7,Domingo,23,T2,0,Post (D+1 a D+3)
+20250609,2025-06-09,2025,6,Junio,2025-06,1,Lunes,24,T2,0,Post (D+1 a D+3)
+20250610,2025-06-10,2025,6,Junio,2025-06,2,Martes,24,T2,0,Post (D+1 a D+3)
+20250611,2025-06-11,2025,6,Junio,2025-06,3,Miércoles,24,T2,0,Previa (D-3 a D-1)
+20250612,2025-06-12,2025,6,Junio,2025-06,4,Jueves,24,T2,0,Previa (D-3 a D-1)
+20250613,2025-06-13,2025,6,Junio,2025-06,5,Viernes,24,T2,0,Previa (D-3 a D-1)
+20250614,2025-06-14,2025,6,Junio,2025-06,6,Sábado,24,T2,1,Día de partido
+20250615,2025-06-15,2025,6,Junio,2025-06,7,Domingo,24,T2,0,Post (D+1 a D+3)
+20250616,2025-06-16,2025,6,Junio,2025-06,1,Lunes,25,T2,0,Post (D+1 a D+3)
+20250617,2025-06-17,2025,6,Junio,2025-06,2,Martes,25,T2,0,Post (D+1 a D+3)
+20250618,2025-06-18,2025,6,Junio,2025-06,3,Miércoles,25,T2,0,Previa (D-3 a D-1)
+20250619,2025-06-19,2025,6,Junio,2025-06,4,Jueves,25,T2,0,Previa (D-3 a D-1)
+20250620,2025-06-20,2025,6,Junio,2025-06,5,Viernes,25,T2,0,Previa (D-3 a D-1)
+20250621,2025-06-21,2025,6,Junio,2025-06,6,Sábado,25,T2,1,Día de partido
+20250622,2025-06-22,2025,6,Junio,2025-06,7,Domingo,25,T2,0,Post (D+1 a D+3)
+20250623,2025-06-23,2025,6,Junio,2025-06,1,Lunes,26,T2,0,Post (D+1 a D+3)
+20250624,2025-06-24,2025,6,Junio,2025-06,2,Martes,26,T2,0,Post (D+1 a D+3)
+20250625,2025-06-25,2025,6,Junio,2025-06,3,Miércoles,26,T2,0,Previa (D-3 a D-1)
+20250626,2025-06-26,2025,6,Junio,2025-06,4,Jueves,26,T2,0,Previa (D-3 a D-1)
+20250627,2025-06-27,2025,6,Junio,2025-06,5,Viernes,26,T2,0,Previa (D-3 a D-1)
+20250628,2025-06-28,2025,6,Junio,2025-06,6,Sábado,26,T2,1,Día de partido
+20250629,2025-06-29,2025,6,Junio,2025-06,7,Domingo,26,T2,0,Post (D+1 a D+3)
+20250630,2025-06-30,2025,6,Junio,2025-06,1,Lunes,27,T2,0,Post (D+1 a D+3)

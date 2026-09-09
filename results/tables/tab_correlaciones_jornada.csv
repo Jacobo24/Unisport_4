@@ -1,0 +1,6 @@
+Variable A,Variable B,n,Pearson r,p (Pearson),Spearman rho,p (Spearman)
+ER_medio,puntos_jornada,39,0.6794,0.0,0.7007,0.0
+ER_medio,goles_favor,39,0.6075,0.0,0.5543,0.0003
+ER_medio,posicion,39,-0.2314,0.1564,-0.3184,0.0482
+interacciones,posicion,39,-0.0764,0.6437,-0.0736,0.656
+interacciones,puntos_acumulados,39,0.3425,0.0328,0.3633,0.023

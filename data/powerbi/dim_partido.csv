@@ -1,0 +1,43 @@
+﻿jornada,fecha,rival,condicion,goles_favor,goles_contra,resultado,puntos,puntos_acumulados,tarjetas_amarillas,tarjetas_rojas,asistencia,forma,posicion,fecha_id,partido,marcador,jornada_etiqueta
+1,2024-08-17,UE Montseny,Local,3,3,Empate,1,1,2,0,12393.0,0.0,19,20240817,CD Atlántico - UE Montseny,3-3,J01
+2,2024-08-24,Atlético Sierra,Visitante,2,1,Victoria,3,4,2,0,,0.099,9,20240824,Atlético Sierra - CD Atlántico,2-1,J02
+3,2024-08-31,Real Villalba CF,Local,3,1,Victoria,3,7,3,0,12031.0,0.336,1,20240831,CD Atlántico - Real Villalba CF,3-1,J03
+4,2024-09-07,CF Duero,Visitante,0,1,Derrota,0,7,1,0,,-0.107,6,20240907,CF Duero - CD Atlántico,0-1,J04
+5,2024-09-14,CD Val de Oro,Local,1,2,Derrota,0,7,5,0,12826.0,-0.944,9,20240914,CD Atlántico - CD Val de Oro,1-2,J05
+6,2024-09-28,SD Puente Nuevo,Visitante,1,1,Empate,1,8,4,0,,-0.196,11,20240928,SD Puente Nuevo - CD Atlántico,1-1,J06
+7,2024-10-05,AD Genil,Local,2,1,Victoria,3,11,5,0,12176.0,-0.433,4,20241005,CD Atlántico - AD Genil,2-1,J07
+8,2024-10-12,Real Xarama,Visitante,0,1,Derrota,0,11,4,0,,-0.447,10,20241012,Real Xarama - CD Atlántico,0-1,J08
+9,2024-10-19,SD Torrelinda,Local,2,1,Victoria,3,14,5,0,10900.0,-0.818,5,20241019,CD Atlántico - SD Torrelinda,2-1,J09
+10,2024-10-26,UD Almendral,Visitante,1,2,Derrota,0,14,4,0,,-1.288,9,20241026,UD Almendral - CD Atlántico,1-2,J10
+11,2024-11-09,CD Bahía Norte,Visitante,0,3,Derrota,0,14,0,0,,-1.125,13,20241109,CD Bahía Norte - CD Atlántico,0-3,J11
+12,2024-11-16,Sporting de Cabo,Visitante,0,2,Derrota,0,14,2,0,,0.345,13,20241116,Sporting de Cabo - CD Atlántico,0-2,J12
+13,2024-11-23,CF Ponent,Local,2,0,Victoria,3,17,1,0,12173.0,0.348,12,20241123,CD Atlántico - CF Ponent,2-0,J13
+14,2024-11-30,CD Miravalle,Local,5,2,Victoria,3,20,2,0,11142.0,0.155,8,20241130,CD Atlántico - CD Miravalle,5-2,J14
+15,2024-12-07,UD Salobral,Local,1,5,Derrota,0,20,3,0,13004.0,-0.22,13,20241207,CD Atlántico - UD Salobral,1-5,J15
+16,2024-12-21,AD Peñalta,Visitante,1,0,Victoria,3,23,1,0,,0.962,8,20241221,AD Peñalta - CD Atlántico,1-0,J16
+17,2024-12-28,CF Costa Blanca,Local,2,2,Empate,1,24,5,1,12290.0,-0.331,10,20241228,CD Atlántico - CF Costa Blanca,2-2,J17
+18,2025-01-04,UD Ribera,Visitante,2,0,Victoria,3,27,4,0,,-0.544,5,20250104,UD Ribera - CD Atlántico,2-0,J18
+19,2025-01-11,Racing de Aldama,Visitante,1,1,Empate,1,28,2,0,,-0.134,6,20250111,Racing de Aldama - CD Atlántico,1-1,J19
+20,2025-01-18,CD Marítimo del Sur,Visitante,2,0,Victoria,3,31,4,0,,-0.239,5,20250118,CD Marítimo del Sur - CD Atlántico,2-0,J20
+21,2025-01-25,Club Arenal,Visitante,0,1,Derrota,0,31,2,0,,-0.626,5,20250125,Club Arenal - CD Atlántico,0-1,J21
+22,2025-02-01,AD Peñalta,Local,0,3,Derrota,0,31,5,0,12084.0,-0.291,7,20250201,CD Atlántico - AD Peñalta,0-3,J22
+23,2025-02-15,Real Villalba CF,Local,0,2,Derrota,0,31,5,0,11067.0,-1.737,9,20250215,CD Atlántico - Real Villalba CF,0-2,J23
+24,2025-02-22,Club Arenal,Local,3,0,Victoria,3,34,3,0,9922.0,-1.48,7,20250222,CD Atlántico - Club Arenal,3-0,J24
+25,2025-03-01,AD Genil,Visitante,3,2,Victoria,3,37,1,0,,-1.518,6,20250301,AD Genil - CD Atlántico,3-2,J25
+26,2025-03-08,CF Duero,Visitante,0,1,Derrota,0,37,3,0,,-0.622,5,20250308,CF Duero - CD Atlántico,0-1,J26
+27,2025-03-15,CD Marítimo del Sur,Local,1,1,Empate,1,38,0,1,10929.0,-0.88,7,20250315,CD Atlántico - CD Marítimo del Sur,1-1,J27
+28,2025-03-22,UD Ribera,Local,0,0,Empate,1,39,1,0,9030.0,-1.591,9,20250322,CD Atlántico - UD Ribera,0-0,J28
+29,2025-03-29,Real Xarama,Local,1,2,Derrota,0,39,1,0,10584.0,-1.708,8,20250329,CD Atlántico - Real Xarama,1-2,J29
+30,2025-04-05,CF Ponent,Visitante,2,4,Derrota,0,39,4,0,,-1.318,12,20250405,CF Ponent - CD Atlántico,2-4,J30
+31,2025-04-19,SD Puente Nuevo,Local,1,0,Victoria,3,42,1,0,10264.0,-2.091,9,20250419,CD Atlántico - SD Puente Nuevo,1-0,J31
+32,2025-04-26,CD Bahía Norte,Visitante,0,1,Derrota,0,42,2,0,,-1.524,10,20250426,CD Bahía Norte - CD Atlántico,0-1,J32
+33,2025-05-03,CD Val de Oro,Local,3,2,Victoria,3,45,5,1,10836.0,-1.219,10,20250503,CD Atlántico - CD Val de Oro,3-2,J33
+34,2025-05-10,UD Salobral,Visitante,2,3,Derrota,0,45,1,0,,-1.141,10,20250510,UD Salobral - CD Atlántico,2-3,J34
+35,2025-05-17,Atlético Sierra,Local,1,1,Empate,1,46,0,0,11903.0,-0.773,10,20250517,CD Atlántico - Atlético Sierra,1-1,J35
+36,2025-05-24,Racing de Aldama,Visitante,1,1,Empate,1,47,5,0,,-1.622,13,20250524,Racing de Aldama - CD Atlántico,1-1,J36
+37,2025-05-31,Sporting de Cabo,Local,0,0,Empate,1,48,5,0,12021.0,-0.493,13,20250531,CD Atlántico - Sporting de Cabo,0-0,J37
+38,2025-06-07,CD Miravalle,Visitante,0,0,Empate,1,49,3,0,,0.132,11,20250607,CD Miravalle - CD Atlántico,0-0,J38
+39,2025-06-14,UE Montseny,Local,1,0,Victoria,3,52,2,1,11779.0,-0.064,10,20250614,CD Atlántico - UE Montseny,1-0,J39
+40,2025-06-21,CF Costa Blanca,Visitante,0,1,Derrota,0,52,2,0,,-0.225,11,20250621,CF Costa Blanca - CD Atlántico,0-1,J40
+41,2025-06-28,SD Torrelinda,Local,0,0,Empate,1,53,4,0,11692.0,-0.425,13,20250628,CD Atlántico - SD Torrelinda,0-0,J41
+42,2025-07-05,UD Almendral,Visitante,1,1,Empate,1,54,5,0,,0.226,12,20250705,UD Almendral - CD Atlántico,1-1,J42
