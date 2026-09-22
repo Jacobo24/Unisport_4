@@ -16,7 +16,7 @@ Los dos documentos evaluables son:
 | Archivo | Contenido |
 |---|---|
 | `informe/informe.pdf` | Plan de intervención (10 páginas de desarrollo) |
-| `powerbi/CD_Atlantico_M4.pbix` | Cuadro de mando interactivo, 6 páginas |
+| `powerbi/Analisis_rrss.pbix` | Cuadro de mando interactivo, 6 páginas |
 
 El resto del repositorio contiene el código, los datos y la documentación que
 respaldan ambos, y permite reproducir el análisis completo desde cero.
@@ -42,15 +42,10 @@ respaldan ambos, y permite reproducir el análisis completo desde cero.
 │   └── tables/                   Tablas de resultados en CSV y LaTeX
 │
 ├── powerbi/
-│   ├── CD_Atlantico_M4.pbix      Cuadro de mando
-│   ├── medidas_dax.txt           Las medidas DAX, comentadas
-│   ├── GUIA_POWERBI.md           Construcción del modelo y las medidas
-│   └── ESPECIFICACION_VISUALES.md  Detalle de cada objeto visual
+│   ├── Analisis_rrss.pbix      Cuadro de mando
 │
 └── informe/
     ├── informe.pdf               Documento final
-    ├── main.tex                  Fuente LaTeX
-    └── fig*.png                  Figuras del informe
 ```
 
 ---
